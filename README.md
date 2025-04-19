@@ -30,11 +30,12 @@ Automatically track **free Epic Games Store giveaways** with this GitHub-powered
 
 ## 📦 Current Free Games
 
-Last updated: {{UPDATE_DATE}}
+Last updated: 2025-04-19
 
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
+
 <!-- END_GAMES_TABLE -->
 
 ---
