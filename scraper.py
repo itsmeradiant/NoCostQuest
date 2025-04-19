@@ -1,12 +1,50 @@
-import requests
 import json
+import requests
 from datetime import datetime
 
+# API URL for fetching free games data
 URL = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=US&allowCountries=US"
 README_PATH = "README.md"
 DATA_PATH = "games.json"
+DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"  # Replace with your actual webhook
+HISTORY_FILENAME = "history.txt"
+
+def load_previous_games():
+    """Load previously found games from history file."""
+    try:
+        with open(HISTORY_FILENAME, "r") as f:
+            return f.read().splitlines()
+    except FileNotFoundError:
+        return []
+
+def save_history(new_games):
+    """Save the new games to the history file."""
+    with open(HISTORY_FILENAME, "w") as f:
+        f.write("\n".join(new_games))
+
+def send_to_discord(game):
+    """Send a notification to Discord when a new game is found."""
+    data = {
+        "embeds": [{
+            "title": f"New Free Game: {game['title']}",
+            "description": game.get('description', 'No description available'),
+            "url": game['url'],
+            "image": {
+                "url": game['image']
+            },
+            "footer": {
+                "text": "Epic Games Free Games Alert"
+            }
+        }]
+    }
+    response = requests.post(DISCORD_WEBHOOK_URL, json=data)
+    if response.status_code == 204:
+        print(f"[✓] Sent Discord notification for {game['title']}")
+    else:
+        print(f"[!] Failed to send Discord notification for {game['title']}")
 
 def get_free_games():
+    """Fetch the free games from the Epic Games Store API."""
     print("[*] Fetching data from Epic Games...")
     r = requests.get(URL)
     data = r.json()
@@ -48,13 +86,16 @@ def get_free_games():
                 "title": title,
                 "url": f"https://store.epicgames.com/p/{slug}",
                 "start": start,
-                "end": end
+                "end": end,
+                "image": game.get('keyImages', [{}])[1].get('url', 'https://example.com/default_image.jpg'),
+                "description": game.get('description', 'No description available')
             })
             print(f"[+] Found free game: {title} ({start} → {end})")
 
     return free
 
 def update_readme(games):
+    """Update the README file with the list of free games."""
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -88,16 +129,23 @@ def update_readme(games):
 
     print(f"[✓] README updated with {len(games)} games.")
 
-
-def save_json(games):
-    with open(DATA_PATH, "w", encoding="utf-8") as f:
-        json.dump(games, f, indent=2)
-    print(f"[✓] Saved {len(games)} entries to {DATA_PATH}")
-
 def main():
+    """Main function to handle the script flow."""
     games = get_free_games()
-    update_readme(games)
-    save_json(games)
+    
+    # Load previous games from history
+    previous_game_names = load_previous_games()
+    
+    # Filter out games that were already in the history
+    new_games = [game for game in games if game['title'] not in previous_game_names]
+
+    # Notify via Discord and update README
+    if new_games:
+        for game in new_games:
+            send_to_discord(game)
+
+        update_readme(new_games)
+        save_history([game['title'] for game in new_games])  # Update history
 
 if __name__ == "__main__":
     main()
