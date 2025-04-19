@@ -19,16 +19,19 @@ def get_free_games():
         slug = game.get('productSlug', '')
         price_info = game.get('price', {}).get('totalPrice', {}).get('discountPrice', None)
 
-        if not slug or price_info is None:
-            print(f"[!] Skipping {title}: Missing slug or price info")
+        if not slug:
+            print(f"[!] Skipping {title}: Missing slug")
             continue
 
-        # Validate promotions
+        # Merge both active and upcoming offers
         promotions = game.get('promotions', {})
-        offers = promotions.get('promotionalOffers', [])
+        offers = (
+            promotions.get('promotionalOffers', []) +
+            promotions.get('upcomingPromotionalOffers', [])
+        )
 
         if not offers or not offers[0].get('promotionalOffers'):
-            print(f"[-] Skipping {title}: No active promotional offer")
+            print(f"[-] Skipping {title}: No active or upcoming promotional offer")
             continue
 
         offer = offers[0]['promotionalOffers'][0]
@@ -39,7 +42,8 @@ def get_free_games():
             print(f"[!] Skipping {title}: Invalid offer structure")
             continue
 
-        if price_info == 0:
+        # Allow 0-price or isFree tag (some giveaways don't set discountPrice)
+        if price_info == 0 or game.get("isFree"):
             free.append({
                 "title": title,
                 "url": f"https://store.epicgames.com/p/{slug}",
