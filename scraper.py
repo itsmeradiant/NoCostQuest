@@ -1,101 +1,55 @@
-import json
 import requests
+import json
 from datetime import datetime
 
-# API URL for fetching free games data
-URL = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=US&allowCountries=US"
+# URL for the Epic Games free promotions
+URL = "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=US&allowCountries=US"
 README_PATH = "README.md"
 DATA_PATH = "games.json"
-DISCORD_WEBHOOK_URL = "YOUR_DISCORD_WEBHOOK_URL"  # Replace with your actual webhook
-HISTORY_FILENAME = "history.txt"
 
-def load_previous_games():
-    """Load previously found games from history file."""
-    try:
-        with open(HISTORY_FILENAME, "r") as f:
-            return f.read().splitlines()
-    except FileNotFoundError:
-        return []
-
-def save_history(new_games):
-    """Save the new games to the history file."""
-    with open(HISTORY_FILENAME, "w") as f:
-        f.write("\n".join(new_games))
-
-def send_to_discord(game):
-    """Send a notification to Discord when a new game is found."""
-    data = {
-        "embeds": [{
-            "title": f"New Free Game: {game['title']}",
-            "description": game.get('description', 'No description available'),
-            "url": game['url'],
-            "image": {
-                "url": game['image']
-            },
-            "footer": {
-                "text": "Epic Games Free Games Alert"
-            }
-        }]
-    }
-    response = requests.post(DISCORD_WEBHOOK_URL, json=data)
-    if response.status_code == 204:
-        print(f"[✓] Sent Discord notification for {game['title']}")
-    else:
-        print(f"[!] Failed to send Discord notification for {game['title']}")
-
-def get_free_games():
-    """Fetch the free games from the Epic Games Store API."""
-    print("[*] Fetching data from Epic Games...")
+# Get the offers from Epic Games
+def getOffers():
     r = requests.get(URL)
     data = r.json()
+    # Return the offers data
+    return data["data"]["Catalog"]["searchStore"]["elements"]
 
-    games = data["data"]["Catalog"]["searchStore"]["elements"]
-    free = []
+# Filters only free games (100% off)
+def getFree():
+    offers = getOffers()
+    return list(filter(filterFunct, offers))
 
-    for game in games:
-        title = game.get('title', 'Unknown')
-        slug = game.get('productSlug', '')
-        price_info = game.get('price', {}).get('totalPrice', {}).get('discountPrice', None)
+# Filter function to check if the game is free (100% off)
+def filterFunct(offer):
+    try:
+        # Check if 'promotions' key exists and contains offers
+        if offer.get('promotions') is None:
+            return False
+        
+        promotions = offer['promotions']['promotionalOffers']
+        
+        # If no promotional offers exist, return False
+        if len(promotions) <= 0:
+            return False
+        
+        # Check the first promotional offer discount percentage
+        discountPercentage = promotions[0]['promotionalOffers'][0]['discountSetting']['discountPercentage']
+        
+        # Only return True if the discount is 100% (i.e., the game is free)
+        if discountPercentage == 100:
+            return True
+        
+        return False
+    except Exception as e:
+        print(f"Error processing offer: {e}")
+        return False
 
-        if not slug:
-            print(f"[!] Skipping {title}: Missing slug")
-            continue
+# Convert offer to a string (display title)
+def offerToString(offer):
+    return offer['title']
 
-        # Merge both active and upcoming offers
-        promotions = game.get('promotions', {})
-        offers = (
-            promotions.get('promotionalOffers', []) +
-            promotions.get('upcomingPromotionalOffers', [])
-        )
-
-        if not offers or not offers[0].get('promotionalOffers'):
-            print(f"[-] Skipping {title}: No active or upcoming promotional offer")
-            continue
-
-        offer = offers[0]['promotionalOffers'][0]
-        try:
-            start = offer['startDate'][:10]
-            end = offer['endDate'][:10]
-        except (KeyError, IndexError):
-            print(f"[!] Skipping {title}: Invalid offer structure")
-            continue
-
-        # Allow 0-price or isFree tag (some giveaways don't set discountPrice)
-        if price_info == 0 or game.get("isFree"):
-            free.append({
-                "title": title,
-                "url": f"https://store.epicgames.com/p/{slug}",
-                "start": start,
-                "end": end,
-                "image": game.get('keyImages', [{}])[1].get('url', 'https://example.com/default_image.jpg'),
-                "description": game.get('description', 'No description available')
-            })
-            print(f"[+] Found free game: {title} ({start} → {end})")
-
-    return free
-
+# Update README with free games list
 def update_readme(games):
-    """Update the README file with the list of free games."""
     with open(README_PATH, "r", encoding="utf-8") as f:
         content = f.read()
 
@@ -129,23 +83,47 @@ def update_readme(games):
 
     print(f"[✓] README updated with {len(games)} games.")
 
+# Save free games to a JSON file
+def save_json(games):
+    with open(DATA_PATH, "w", encoding="utf-8") as f:
+        json.dump(games, f, indent=2)
+    print(f"[✓] Saved {len(games)} entries to {DATA_PATH}")
+
 def main():
-    """Main function to handle the script flow."""
-    games = get_free_games()
-    
-    # Load previous games from history
-    previous_game_names = load_previous_games()
-    
-    # Filter out games that were already in the history
-    new_games = [game for game in games if game['title'] not in previous_game_names]
+    # Get the free games
+    free_games = getFree()
 
-    # Notify via Discord and update README
-    if new_games:
-        for game in new_games:
-            send_to_discord(game)
+    # Prepare games data for updating README and saving as JSON
+    games_data = []
+    for game in free_games:
+        title = game.get('title', 'Unknown')
+        slug = game.get('productSlug', '')
+        price_info = game.get('price', {}).get('totalPrice', {}).get('discountPrice', None)
 
-        update_readme(new_games)
-        save_history([game['title'] for game in new_games])  # Update history
+        # Validate promotions and gather data
+        promotions = game.get('promotions', {})
+        offers = promotions.get('promotionalOffers', [])
+        if offers and offers[0].get('promotionalOffers'):
+            offer = offers[0]['promotionalOffers'][0]
+            try:
+                start = offer['startDate'][:10]
+                end = offer['endDate'][:10]
+            except (KeyError, IndexError):
+                print(f"[!] Skipping {title}: Invalid offer structure")
+                continue
+
+            if price_info == 0:
+                games_data.append({
+                    "title": title,
+                    "url": f"https://store.epicgames.com/p/{slug}",
+                    "start": start,
+                    "end": end
+                })
+                print(f"[+] Found free game: {title} ({start} → {end})")
+
+    # Update README and save to JSON
+    update_readme(games_data)
+    save_json(games_data)
 
 if __name__ == "__main__":
     main()
