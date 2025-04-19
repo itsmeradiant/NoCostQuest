@@ -52,26 +52,38 @@ def get_free_games():
 
 def update_readme(games):
     with open(README_PATH, "r", encoding="utf-8") as f:
-        lines = f.readlines()
+        content = f.read()
 
-    start_idx = lines.index("| 🎮 Game | 🗓️ Duration | 🔗 Link |\n") + 2
-    end_idx = next((i for i, line in enumerate(lines[start_idx:], start=start_idx) if line.strip().startswith("---")), len(lines))
+    # Build new table rows
+    new_rows = "\n".join(
+        f"| {g['title']} | {g['start']} → {g['end']} | [Claim Now]({g['url']}) |"
+        for g in games
+    )
 
-    # Build new game table rows
-    new_rows = [f"| {g['title']} | {g['start']} → {g['end']} | [Claim Now]({g['url']}) |\n" for g in games]
+    # Replace the table section using markers
+    start_tag = "<!-- BEGIN_GAMES_TABLE -->"
+    end_tag = "<!-- END_GAMES_TABLE -->"
 
-    # Update date placeholder
+    if start_tag not in content or end_tag not in content:
+        raise ValueError("README is missing required table markers.")
+
+    before = content.split(start_tag)[0] + start_tag + "\n"
+    after = "\n" + end_tag + content.split(end_tag)[1]
+    new_table = "| 🎮 Game | 🗓️ Duration | 🔗 Link |\n|--------|--------------|---------|\n" + new_rows
+
+    # Replace the section between markers
+    content = before + new_table + after
+
+    # Replace update date
     today = datetime.utcnow().strftime("%Y-%m-%d")
-    for i, line in enumerate(lines):
-        if "{{UPDATE_DATE}}" in line:
-            lines[i] = line.replace("{{UPDATE_DATE}}", today)
+    content = content.replace("{{UPDATE_DATE}}", today)
 
-    # Rebuild README
-    lines[start_idx:end_idx] = new_rows
+    # Write back to README
     with open(README_PATH, "w", encoding="utf-8") as f:
-        f.writelines(lines)
+        f.write(content)
 
     print(f"[✓] README updated with {len(games)} games.")
+
 
 def save_json(games):
     with open(DATA_PATH, "w", encoding="utf-8") as f:

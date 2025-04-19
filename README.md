@@ -1,4 +1,3 @@
-
    (\)  
   ( •.•)  <( Epic slayer!)  
   (   >⌐■-■  
@@ -15,8 +14,6 @@ Automatically track **free Epic Games Store giveaways** with this GitHub-powered
 2. **Enable GitHub Actions** (required for automation)  
 3. **Add Discord Webhook** as a secret for notifications  
 
-
-
 ## How it Works
 - Uses Epic’s **public API** to fetch giveaway data
 - Parses response and compares it to previous list (`games.json`)
@@ -31,8 +28,15 @@ Automatically track **free Epic Games Store giveaways** with this GitHub-powered
 
 ---
 
+## 📦 Current Free Games
+
+Last updated: {{UPDATE_DATE}}
+
+<!-- BEGIN_GAMES_TABLE -->
+| 🎮 Game | 🗓️ Duration | 🔗 Link |
+|--------|--------------|---------|
+<!-- END_GAMES_TABLE -->
+
+---
+
 ## Made by [@0xRad1ant](https://github.com/0xRad1ant) • Powered by GitHub Actions • Maintained by NoobSec
-```
-
-> 💡 The placeholder `{{UPDATE_DATE}}` and table rows will be *hopefully* updated automatically by Python script.
-
