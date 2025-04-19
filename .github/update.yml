@@ -1,0 +1,33 @@
+name: Update Epic Free Games
+
+on:
+  schedule:
+    - cron: "*/2 * * * *"  # For testing it will run every 2 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.11
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run scraper
+      run: python scraper.py
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add README.md games.json
+        git commit -m "?? Update free games list" || echo "No changes"
+        git push
+
