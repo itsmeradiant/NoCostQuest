@@ -17,10 +17,9 @@ def fetch_games():
     for offer in elements:
         promotions = offer.get("promotions")
         if not promotions:
-            print(f"Skipping {offer['title']} - No promotions")
+            print(f"⏭️ Skipping {offer['title']} - No promotions")
             continue
 
-        # Check current and upcoming promo blocks
         current = promotions.get("promotionalOffers", [])
         upcoming = promotions.get("upcomingPromotionalOffers", [])
 
@@ -30,7 +29,7 @@ def fetch_games():
         elif upcoming and upcoming[0]["promotionalOffers"]:
             promo = upcoming[0]["promotionalOffers"][0]
         else:
-            print(f"Skipping {offer['title']} - No promotional offers")
+            print(f"⏭️ Skipping {offer['title']} - No promotional offers")
             continue
 
         if promo["discountSetting"]["discountPercentage"] != 0:
@@ -39,15 +38,27 @@ def fetch_games():
         start = promo["startDate"][:10]
         end = promo["endDate"][:10]
 
+        # Fix incorrect or UUID-based URLs
+        slug = None
+        mappings = offer.get("catalogNs", {}).get("mappings", [])
+        if mappings:
+            slug = mappings[0].get("pageSlug")
+        if not slug:
+            slug = offer.get("urlSlug")
+
+        if not slug:
+            print(f"⚠️ Skipping {offer['title']} - No valid slug found")
+            continue
+
         game = {
             "title": offer["title"],
             "description": offer.get("description", "No description provided."),
-            "url": f"https://store.epicgames.com/en-US/p/{offer.get('urlSlug', '')}",
+            "url": f"https://store.epicgames.com/en-US/p/{slug}",
             "startDate": start,
             "endDate": end
         }
 
-        print(f"Found free game: {game['title']}")
+        print(f"✅ Found: {game['title']}")
         free_games.append(game)
 
     return free_games
