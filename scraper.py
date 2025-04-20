@@ -2,13 +2,25 @@ import requests
 import json
 from datetime import datetime
 from pathlib import Path
+import os
+
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    print("python-dotenv not installed – skipping .env loading.")
 
 API_URL = "https://store-site-backend-static-ipv4.ak.epicgames.com/freeGamesPromotions?locale=en-US&country=US&allowCountries=US"
 GAMES_JSON = "games.json"
 README_FILE = "README.md"
 
+DISCORD_WEBHOOK_URLS = [
+    os.getenv("DISCORD_WEBHOOK_1"),
+    os.getenv("DISCORD_WEBHOOK_2")
+]
+
 def fetch_games():
-    print("🚀 Fetching free games from Epic Games...")
+    print("Fetching free games from Epic Games...")
     res = requests.get(API_URL)
     data = res.json()
     elements = data["data"]["Catalog"]["searchStore"]["elements"]
@@ -17,7 +29,7 @@ def fetch_games():
     for offer in elements:
         promotions = offer.get("promotions")
         if not promotions:
-            print(f"⏭️ Skipping {offer['title']} - No promotions")
+            print(f"Skipping {offer['title']} - No promotions")
             continue
 
         current = promotions.get("promotionalOffers", [])
@@ -29,7 +41,7 @@ def fetch_games():
         elif upcoming and upcoming[0]["promotionalOffers"]:
             promo = upcoming[0]["promotionalOffers"][0]
         else:
-            print(f"⏭️ Skipping {offer['title']} - No promotional offers")
+            print(f"Skipping {offer['title']} - No promotional offers")
             continue
 
         if promo["discountSetting"]["discountPercentage"] != 0:
@@ -38,16 +50,13 @@ def fetch_games():
         start = promo["startDate"][:10]
         end = promo["endDate"][:10]
 
-        # Fix incorrect or UUID-based URLs
-        slug = None
+        slug = offer.get("urlSlug")
         mappings = offer.get("catalogNs", {}).get("mappings", [])
-        if mappings:
-            slug = mappings[0].get("pageSlug")
-        if not slug:
-            slug = offer.get("urlSlug")
+        if mappings and mappings[0].get("pageSlug"):
+            slug = mappings[0]["pageSlug"]
 
         if not slug:
-            print(f"⚠️ Skipping {offer['title']} - No valid slug found")
+            print(f"Skipping {offer['title']} - No valid slug found")
             continue
 
         game = {
@@ -58,7 +67,7 @@ def fetch_games():
             "endDate": end
         }
 
-        print(f"✅ Found: {game['title']}")
+        print(f"Found: {game['title']}")
         free_games.append(game)
 
     return free_games
@@ -98,10 +107,33 @@ def update_readme(games):
 
     print(f"[✓] README updated with {len(games)} games.")
 
+def notify_discord(games):
+    if not games:
+        print("No new games to notify.")
+        return
+
+    msg = "**Epic Games Freebies This Week:**\n\n"
+    for g in games:
+        msg += f"**{g['title']}**\n🗓️ {g['startDate']} → {g['endDate']}\n🔗 {g['url']}\n\n"
+
+    for url in DISCORD_WEBHOOK_URLS:
+        if not url:
+            print("⚠️ Webhook URL missing. Skipping...")
+            continue
+        try:
+            res = requests.post(url, json={"content": msg})
+            if res.status_code in [200, 204]:
+                print(f"[✓] Notified Discord channel.")
+            else:
+                print(f"[!] Discord error: {res.status_code} - {res.text}")
+        except Exception as e:
+            print(f"[!] Discord exception: {e}")
+
 def main():
     games = fetch_games()
     save_games(games)
     update_readme(games)
+    notify_discord(games)
 
 if __name__ == "__main__":
     main()

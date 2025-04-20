@@ -18,7 +18,7 @@ Automatically track **free Epic Games Store giveaways** with this GitHub-powered
 - Uses Epic’s **public API** to fetch giveaway data
 - Parses response and compares it to previous list (`games.json`)
 - Updates `README.md` with new games
-- Commits changes via GitHub Actions
+- Sends Discord notification with game details
 
 ---
 
