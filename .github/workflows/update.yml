@@ -2,8 +2,8 @@ name: Auto Update Free Games
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # For Testing: every 6 hours
-    # - cron: "0 0 * * *"  # For Final: every day at midnight UTC
+    # - cron: "0 */6 * * *"  # For Testing: every 6 hours
+    - cron: "0 23 * * 4"  # For Final: every day at midnight UTC
   workflow_dispatch:
 
 jobs:
