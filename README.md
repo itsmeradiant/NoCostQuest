@@ -35,9 +35,8 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Firestone Online Idle RPG | 2025-04-17 → 2025-04-24 | [Store Page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
-| Botanicula | 2025-04-17 → 2025-04-24 | [Store Page](https://store.epicgames.com/en-US/p/botanicula-50043d) |
 | CHUCHEL | 2025-04-24 → 2025-05-01 | [Store Page](https://store.epicgames.com/en-US/p/chuchel-203808) |
+| Super Space Club | 2025-05-01 → 2025-05-08 | [Store Page](https://store.epicgames.com/en-US/p/super-space-club-20adbe) |
 | Albion Online Free Welcome Gift | 2025-04-24 → 2025-05-01 | [Store Page](https://store.epicgames.com/en-US/p/albion-online-7eb24d) |
 
 <!-- END_GAMES_TABLE -->
