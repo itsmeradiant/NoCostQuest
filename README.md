@@ -35,9 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| CHUCHEL | 2025-04-24 → 2025-05-01 | [Store Page](https://store.epicgames.com/en-US/p/chuchel-203808) |
+| Touch Type Tale | 2025-05-08 → 2025-05-15 | [Store Page](https://store.epicgames.com/en-US/p/touch-type-tale) |
 | Super Space Club | 2025-05-01 → 2025-05-08 | [Store Page](https://store.epicgames.com/en-US/p/super-space-club-20adbe) |
-| Albion Online Free Welcome Gift | 2025-04-24 → 2025-05-01 | [Store Page](https://store.epicgames.com/en-US/p/albion-online-7eb24d) |
+| Deadtime Defenders | 2025-05-08 → 2025-05-15 | [Store Page](https://store.epicgames.com/en-US/p/deadtime-defenders-3e9fc8) |
 
 <!-- END_GAMES_TABLE -->
 
