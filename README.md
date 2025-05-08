@@ -36,8 +36,9 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Touch Type Tale | 2025-05-08 → 2025-05-15 | [Store Page](https://store.epicgames.com/en-US/p/touch-type-tale) |
-| Super Space Club | 2025-05-01 → 2025-05-08 | [Store Page](https://store.epicgames.com/en-US/p/super-space-club-20adbe) |
 | Deadtime Defenders | 2025-05-08 → 2025-05-15 | [Store Page](https://store.epicgames.com/en-US/p/deadtime-defenders-3e9fc8) |
+| Mystery Game 2 | 2025-05-15 → 2025-05-22 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-2-02) |
+| Mystery Game 1 | 2025-05-15 → 2025-05-22 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game) |
 
 <!-- END_GAMES_TABLE -->
 

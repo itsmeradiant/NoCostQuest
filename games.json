@@ -7,17 +7,24 @@
     "endDate": "2025-05-15"
   },
   {
-    "title": "Super Space Club",
-    "description": "Super Space Club is a lo-fi arcade space shooter to chill to. Defend a vibrant galaxy as a club of misfit heroes and battle endless waves of spacecrafts to the tune of atmospheric beats. Outlast your enemies and vibe to the rhythm of the stars.",
-    "url": "https://store.epicgames.com/en-US/p/super-space-club-20adbe",
-    "startDate": "2025-05-01",
-    "endDate": "2025-05-08"
-  },
-  {
     "title": "Deadtime Defenders",
     "description": "Complete bounties, acquire legendary loot, upgrade your gear, and level up as you fight back against invading monsters in this side-scrolling looter shooter RPG.",
     "url": "https://store.epicgames.com/en-US/p/deadtime-defenders-3e9fc8",
     "startDate": "2025-05-08",
     "endDate": "2025-05-15"
+  },
+  {
+    "title": "Mystery Game 2",
+    "description": "Mystery Game 2",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game-2-02",
+    "startDate": "2025-05-15",
+    "endDate": "2025-05-22"
+  },
+  {
+    "title": "Mystery Game 1",
+    "description": "Mystery Game 1",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game",
+    "startDate": "2025-05-15",
+    "endDate": "2025-05-22"
   }
 ]
