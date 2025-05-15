@@ -35,10 +35,11 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Touch Type Tale | 2025-05-08 → 2025-05-15 | [Store Page](https://store.epicgames.com/en-US/p/touch-type-tale) |
-| Deadtime Defenders | 2025-05-08 → 2025-05-15 | [Store Page](https://store.epicgames.com/en-US/p/deadtime-defenders-3e9fc8) |
-| Mystery Game 2 | 2025-05-15 → 2025-05-22 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-2-02) |
-| Mystery Game 1 | 2025-05-15 → 2025-05-22 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game) |
+| Happy Game | 2025-05-15 → 2025-05-22 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-2-02) |
+| Dead Island 2 | 2025-05-15 → 2025-05-22 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game) |
+| Mystery Game 3 | 2025-05-22 → 2025-05-29 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-3-01) |
+| Mystery Game 5 | 2025-05-22 → 2025-05-29 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-5-01) |
+| Mystery Game 4 | 2025-05-22 → 2025-05-29 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-4-01) |
 
 <!-- END_GAMES_TABLE -->
 

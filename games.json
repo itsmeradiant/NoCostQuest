@@ -1,30 +1,37 @@
 [
   {
-    "title": "Touch Type Tale",
-    "description": "Touch Type Tale is a real-time strategy game with a typing twist, featuring a story rich campaign and online competitive play that will delight even the most hardened RTS veterans.",
-    "url": "https://store.epicgames.com/en-US/p/touch-type-tale",
-    "startDate": "2025-05-08",
-    "endDate": "2025-05-15"
-  },
-  {
-    "title": "Deadtime Defenders",
-    "description": "Complete bounties, acquire legendary loot, upgrade your gear, and level up as you fight back against invading monsters in this side-scrolling looter shooter RPG.",
-    "url": "https://store.epicgames.com/en-US/p/deadtime-defenders-3e9fc8",
-    "startDate": "2025-05-08",
-    "endDate": "2025-05-15"
-  },
-  {
-    "title": "Mystery Game 2",
-    "description": "Mystery Game 2",
+    "title": "Happy Game",
+    "description": "Happy Game",
     "url": "https://store.epicgames.com/en-US/p/mystery-game-2-02",
     "startDate": "2025-05-15",
     "endDate": "2025-05-22"
   },
   {
-    "title": "Mystery Game 1",
-    "description": "Mystery Game 1",
+    "title": "Dead Island 2",
+    "description": "Dead Island 2",
     "url": "https://store.epicgames.com/en-US/p/mystery-game",
     "startDate": "2025-05-15",
     "endDate": "2025-05-22"
+  },
+  {
+    "title": "Mystery Game 3",
+    "description": "Mystery Game 3",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game-3-01",
+    "startDate": "2025-05-22",
+    "endDate": "2025-05-29"
+  },
+  {
+    "title": "Mystery Game 5",
+    "description": "Mystery Game 5",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game-5-01",
+    "startDate": "2025-05-22",
+    "endDate": "2025-05-29"
+  },
+  {
+    "title": "Mystery Game 4",
+    "description": "Mystery Game 4",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game-4-01",
+    "startDate": "2025-05-22",
+    "endDate": "2025-05-29"
   }
 ]
