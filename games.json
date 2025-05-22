@@ -1,37 +1,37 @@
 [
   {
-    "title": "Happy Game",
-    "description": "Happy Game",
-    "url": "https://store.epicgames.com/en-US/p/mystery-game-2-02",
-    "startDate": "2025-05-15",
-    "endDate": "2025-05-22"
-  },
-  {
-    "title": "Dead Island 2",
-    "description": "Dead Island 2",
-    "url": "https://store.epicgames.com/en-US/p/mystery-game",
-    "startDate": "2025-05-15",
-    "endDate": "2025-05-22"
-  },
-  {
-    "title": "Mystery Game 3",
-    "description": "Mystery Game 3",
+    "title": "Sifu",
+    "description": "Sifu",
     "url": "https://store.epicgames.com/en-US/p/mystery-game-3-01",
     "startDate": "2025-05-22",
     "endDate": "2025-05-29"
   },
   {
-    "title": "Mystery Game 5",
-    "description": "Mystery Game 5",
+    "title": "Gigapocalypse",
+    "description": "Gigapocalypse",
     "url": "https://store.epicgames.com/en-US/p/mystery-game-5-01",
     "startDate": "2025-05-22",
     "endDate": "2025-05-29"
   },
   {
-    "title": "Mystery Game 4",
-    "description": "Mystery Game 4",
+    "title": "Deliver At All Costs",
+    "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past \u2014 as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
     "url": "https://store.epicgames.com/en-US/p/mystery-game-4-01",
     "startDate": "2025-05-22",
     "endDate": "2025-05-29"
+  },
+  {
+    "title": "Mystery Game 6",
+    "description": "Mystery Game 6",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game-2-01",
+    "startDate": "2025-05-29",
+    "endDate": "2025-06-05"
+  },
+  {
+    "title": "Mystery Game 7",
+    "description": "Mystery Game 7",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game-7-01",
+    "startDate": "2025-05-29",
+    "endDate": "2025-06-05"
   }
 ]
