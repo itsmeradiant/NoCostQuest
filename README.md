@@ -35,11 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Sifu | 2025-05-22 → 2025-05-29 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-3-01) |
-| Gigapocalypse | 2025-05-22 → 2025-05-29 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-5-01) |
-| Deliver At All Costs | 2025-05-22 → 2025-05-29 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-4-01) |
-| Mystery Game 6 | 2025-05-29 → 2025-06-05 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-2-01) |
-| Mystery Game 7 | 2025-05-29 → 2025-06-05 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-7-01) |
+| Tiny Tina's Wonderlands | 2025-05-29 → 2025-06-05 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-2-01) |
+| Limbo | 2025-05-29 → 2025-06-05 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-7-01) |
+| Mystery Game 8 | 2025-06-05 → 2025-06-12 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-01-01) |
+| Mystery Game 9 | 2025-06-05 → 2025-06-12 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-9) |
 
 <!-- END_GAMES_TABLE -->
 

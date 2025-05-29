@@ -1,37 +1,30 @@
 [
   {
-    "title": "Sifu",
-    "description": "Sifu",
-    "url": "https://store.epicgames.com/en-US/p/mystery-game-3-01",
-    "startDate": "2025-05-22",
-    "endDate": "2025-05-29"
-  },
-  {
-    "title": "Gigapocalypse",
-    "description": "Gigapocalypse",
-    "url": "https://store.epicgames.com/en-US/p/mystery-game-5-01",
-    "startDate": "2025-05-22",
-    "endDate": "2025-05-29"
-  },
-  {
-    "title": "Deliver At All Costs",
-    "description": "Deliver At All Costs is a thrilling action game where destruction, absurdity and intrigue collide! Join Winston Green, a down-on-his-luck courier with a fiery temper and a mysterious past \u2014 as he delivers highly unconventional cargo, leaving a trail of havoc and chaos behind him.",
-    "url": "https://store.epicgames.com/en-US/p/mystery-game-4-01",
-    "startDate": "2025-05-22",
-    "endDate": "2025-05-29"
-  },
-  {
-    "title": "Mystery Game 6",
-    "description": "Mystery Game 6",
+    "title": "Tiny Tina's Wonderlands",
+    "description": "Tiny Tina's Wonderlands",
     "url": "https://store.epicgames.com/en-US/p/mystery-game-2-01",
     "startDate": "2025-05-29",
     "endDate": "2025-06-05"
   },
   {
-    "title": "Mystery Game 7",
-    "description": "Mystery Game 7",
+    "title": "Limbo",
+    "description": "Limbo is an award-winning indie adventure, critically acclaimed for its captivating puzzle design and immersive sound and visuals. Its dark, misty spaces and haunting narrative will stay with you forever.",
     "url": "https://store.epicgames.com/en-US/p/mystery-game-7-01",
     "startDate": "2025-05-29",
     "endDate": "2025-06-05"
+  },
+  {
+    "title": "Mystery Game 8",
+    "description": "Mystery Game 8",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game-01-01",
+    "startDate": "2025-06-05",
+    "endDate": "2025-06-12"
+  },
+  {
+    "title": "Mystery Game 9",
+    "description": "Mystery Game 9",
+    "url": "https://store.epicgames.com/en-US/p/mystery-game-9",
+    "startDate": "2025-06-05",
+    "endDate": "2025-06-12"
   }
 ]
