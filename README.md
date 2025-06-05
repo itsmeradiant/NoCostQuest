@@ -35,10 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Tiny Tina's Wonderlands | 2025-05-29 → 2025-06-05 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-2-01) |
-| Limbo | 2025-05-29 → 2025-06-05 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-7-01) |
-| Mystery Game 8 | 2025-06-05 → 2025-06-12 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-01-01) |
-| Mystery Game 9 | 2025-06-05 → 2025-06-12 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-9) |
+| Two Point Hospital | 2025-06-12 → 2025-06-19 | [Store Page](https://store.epicgames.com/en-US/p/two-point-hospital) |
+| Ogu and the Secret Forest | 2025-06-05 → 2025-06-12 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-9) |
+| DEATHLOOP | 2025-06-05 → 2025-06-12 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-08) |
 
 <!-- END_GAMES_TABLE -->
 
