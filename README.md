@@ -36,8 +36,7 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Two Point Hospital | 2025-06-12 → 2025-06-19 | [Store Page](https://store.epicgames.com/en-US/p/two-point-hospital) |
-| Ogu and the Secret Forest | 2025-06-05 → 2025-06-12 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-9) |
-| DEATHLOOP | 2025-06-05 → 2025-06-12 | [Store Page](https://store.epicgames.com/en-US/p/mystery-game-08) |
+| The Operator | 2025-06-19 → 2025-06-26 | [Store Page](https://store.epicgames.com/en-US/p/the-operator-b835e9) |
 
 <!-- END_GAMES_TABLE -->
 
