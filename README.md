@@ -35,7 +35,7 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Two Point Hospital | 2025-06-12 → 2025-06-19 | [Store Page](https://store.epicgames.com/en-US/p/two-point-hospital) |
+| Sable | 2025-06-26 → 2025-07-03 | [Store Page](https://store.epicgames.com/en-US/p/sable) |
 | The Operator | 2025-06-19 → 2025-06-26 | [Store Page](https://store.epicgames.com/en-US/p/the-operator-b835e9) |
 
 <!-- END_GAMES_TABLE -->
