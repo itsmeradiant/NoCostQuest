@@ -36,7 +36,7 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Sable | 2025-06-26 → 2025-07-03 | [Store Page](https://store.epicgames.com/en-US/p/sable) |
-| The Operator | 2025-06-19 → 2025-06-26 | [Store Page](https://store.epicgames.com/en-US/p/the-operator-b835e9) |
+| Backpack Hero | 2025-07-03 → 2025-07-10 | [Store Page](https://store.epicgames.com/en-US/p/backpack-hero-449c5e) |
 
 <!-- END_GAMES_TABLE -->
 
