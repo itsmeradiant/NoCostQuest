@@ -1,10 +1,24 @@
 [
   {
-    "title": "Sable",
-    "description": "Embark on a unique and unforgettable journey and guide Sable through her Gliding; a rite of passage that will take her across vast deserts and mesmerizing landscapes, capped by the remains of spaceships and ancient wonders.",
-    "url": "https://store.epicgames.com/en-US/p/sable",
-    "startDate": "2025-06-26",
-    "endDate": "2025-07-03"
+    "title": "Figment",
+    "description": "Figment is an action-adventure game that invites you to explore a unique surreal universe filled with music, humor and multi layered narrative.",
+    "url": "https://store.epicgames.com/en-US/p/figment",
+    "startDate": "2025-07-03",
+    "endDate": "2025-07-10"
+  },
+  {
+    "title": "Sky Racket",
+    "description": "Sky Racket is a game that mixes two classic genres from the Arcade era: Shoot\u2019em up and Brick Breakers. In a world where you are unable to attack, using your racket to strike enemy bullets back at them is your only option! Bounce bullets back at your foes and save the galaxy!",
+    "url": "https://store.epicgames.com/en-US/p/sky-racket-4cf23a",
+    "startDate": "2025-07-10",
+    "endDate": "2025-07-17"
+  },
+  {
+    "title": "Figment 2: Creed Valley",
+    "description": "Figment 2: Creed Valley is an action-adventure game set in the human mind. Nightmares are spreading chaos and have overrun once-peaceful lands. Join Dusty, The Mind\u2019s courage, as you make your way through puzzles, musical boss fights and unique environments.",
+    "url": "https://store.epicgames.com/en-US/p/figment2-creed-valley",
+    "startDate": "2025-07-10",
+    "endDate": "2025-07-17"
   },
   {
     "title": "Backpack Hero",
