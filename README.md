@@ -35,10 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Figment | 2025-07-03 → 2025-07-10 | [Store Page](https://store.epicgames.com/en-US/p/figment) |
+| Sid Meier’s Civilization® VI Platinum Edition | 2025-07-17 → 2025-07-24 | [Store Page](https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi) |
 | Sky Racket | 2025-07-10 → 2025-07-17 | [Store Page](https://store.epicgames.com/en-US/p/sky-racket-4cf23a) |
 | Figment 2: Creed Valley | 2025-07-10 → 2025-07-17 | [Store Page](https://store.epicgames.com/en-US/p/figment2-creed-valley) |
-| Backpack Hero | 2025-07-03 → 2025-07-10 | [Store Page](https://store.epicgames.com/en-US/p/backpack-hero-449c5e) |
 
 <!-- END_GAMES_TABLE -->
 
