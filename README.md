@@ -36,8 +36,7 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Sid Meier’s Civilization® VI Platinum Edition | 2025-07-17 → 2025-07-24 | [Store Page](https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi) |
-| Sky Racket | 2025-07-10 → 2025-07-17 | [Store Page](https://store.epicgames.com/en-US/p/sky-racket-4cf23a) |
-| Figment 2: Creed Valley | 2025-07-10 → 2025-07-17 | [Store Page](https://store.epicgames.com/en-US/p/figment2-creed-valley) |
+| Legion TD 2 | 2025-07-24 → 2025-07-31 | [Store Page](https://store.epicgames.com/en-US/p/legion-td-2-a244b9) |
 
 <!-- END_GAMES_TABLE -->
 
