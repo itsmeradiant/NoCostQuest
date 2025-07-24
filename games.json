@@ -1,10 +1,10 @@
 [
   {
-    "title": "Sid Meier\u2019s Civilization\u00ae VI Platinum Edition",
-    "description": "Sid Meier\u2019s Civilization VI: Platinum Edition is the perfect entry point for PC gamers who have yet to experience the addictive gameplay that has made Civilization one of the greatest game series of all time.",
-    "url": "https://store.epicgames.com/en-US/p/sid-meiers-civilization-vi",
-    "startDate": "2025-07-17",
-    "endDate": "2025-07-24"
+    "title": "Pilgrims",
+    "description": "Roam the land as you please and make new friends, share a laugh with your fellow travelers and help them complete their little stories, your way. How many different solutions can you find?",
+    "url": "https://store.epicgames.com/en-US/p/pilgrims-6d250f",
+    "startDate": "2025-07-31",
+    "endDate": "2025-08-07"
   },
   {
     "title": "Legion TD 2",
@@ -12,5 +12,12 @@
     "url": "https://store.epicgames.com/en-US/p/legion-td-2-a244b9",
     "startDate": "2025-07-24",
     "endDate": "2025-07-31"
+  },
+  {
+    "title": "Keylocker | Turn Based Cyberpunk Action",
+    "description": "Keylocker is a Cyberpunk turn-based rhythm JRPG. As the electric singer, B0B0, you\u2019ll choose your class, master a challenging combat system, and shake the foundations of Saturnite society in rhythm-game style!",
+    "url": "https://store.epicgames.com/en-US/p/keylocker-622bcc",
+    "startDate": "2025-07-31",
+    "endDate": "2025-08-07"
   }
 ]
