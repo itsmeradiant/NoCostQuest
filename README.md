@@ -36,8 +36,9 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Pilgrims | 2025-07-31 → 2025-08-07 | [Store Page](https://store.epicgames.com/en-US/p/pilgrims-6d250f) |
-| Legion TD 2 | 2025-07-24 → 2025-07-31 | [Store Page](https://store.epicgames.com/en-US/p/legion-td-2-a244b9) |
 | Keylocker | Turn Based Cyberpunk Action | 2025-07-31 → 2025-08-07 | [Store Page](https://store.epicgames.com/en-US/p/keylocker-622bcc) |
+| 112 Operator | 2025-08-07 → 2025-08-14 | [Store Page](https://store.epicgames.com/en-US/p/112-operator-f34b0b) |
+| Road Redemption | 2025-08-07 → 2025-08-14 | [Store Page](https://store.epicgames.com/en-US/p/road-redemption-ce16fb) |
 
 <!-- END_GAMES_TABLE -->
 
