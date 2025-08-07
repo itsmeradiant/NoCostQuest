@@ -1,17 +1,10 @@
 [
   {
-    "title": "Pilgrims",
-    "description": "Roam the land as you please and make new friends, share a laugh with your fellow travelers and help them complete their little stories, your way. How many different solutions can you find?",
-    "url": "https://store.epicgames.com/en-US/p/pilgrims-6d250f",
-    "startDate": "2025-07-31",
-    "endDate": "2025-08-07"
-  },
-  {
-    "title": "Keylocker | Turn Based Cyberpunk Action",
-    "description": "Keylocker is a Cyberpunk turn-based rhythm JRPG. As the electric singer, B0B0, you\u2019ll choose your class, master a challenging combat system, and shake the foundations of Saturnite society in rhythm-game style!",
-    "url": "https://store.epicgames.com/en-US/p/keylocker-622bcc",
-    "startDate": "2025-07-31",
-    "endDate": "2025-08-07"
+    "title": "Totally Reliable Delivery Service Standard Edition",
+    "description": "Buckle up your back brace and fire up the delivery truck, it's time to deliver! Join up to three friends and haphazardly get the job done in an interactive sandbox world. Delivery attempted, that's a Totally Reliable Delivery Service guarantee!",
+    "url": "https://store.epicgames.com/en-US/p/totally-reliable-delivery-service",
+    "startDate": "2025-08-14",
+    "endDate": "2025-08-21"
   },
   {
     "title": "112 Operator",
@@ -26,5 +19,12 @@
     "url": "https://store.epicgames.com/en-US/p/road-redemption-ce16fb",
     "startDate": "2025-08-07",
     "endDate": "2025-08-14"
+  },
+  {
+    "title": "Hidden Folks",
+    "description": "Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooooaaaarrrr!!!!!",
+    "url": "https://store.epicgames.com/en-US/p/hidden-folks-239d16",
+    "startDate": "2025-08-14",
+    "endDate": "2025-08-21"
   }
 ]

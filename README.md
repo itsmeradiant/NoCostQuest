@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Pilgrims | 2025-07-31 → 2025-08-07 | [Store Page](https://store.epicgames.com/en-US/p/pilgrims-6d250f) |
-| Keylocker | Turn Based Cyberpunk Action | 2025-07-31 → 2025-08-07 | [Store Page](https://store.epicgames.com/en-US/p/keylocker-622bcc) |
+| Totally Reliable Delivery Service Standard Edition | 2025-08-14 → 2025-08-21 | [Store Page](https://store.epicgames.com/en-US/p/totally-reliable-delivery-service) |
 | 112 Operator | 2025-08-07 → 2025-08-14 | [Store Page](https://store.epicgames.com/en-US/p/112-operator-f34b0b) |
 | Road Redemption | 2025-08-07 → 2025-08-14 | [Store Page](https://store.epicgames.com/en-US/p/road-redemption-ce16fb) |
+| Hidden Folks | 2025-08-14 → 2025-08-21 | [Store Page](https://store.epicgames.com/en-US/p/hidden-folks-239d16) |
 
 <!-- END_GAMES_TABLE -->
 
