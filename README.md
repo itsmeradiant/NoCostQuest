@@ -36,8 +36,8 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Totally Reliable Delivery Service Standard Edition | 2025-08-14 → 2025-08-21 | [Store Page](https://store.epicgames.com/en-US/p/totally-reliable-delivery-service) |
-| 112 Operator | 2025-08-07 → 2025-08-14 | [Store Page](https://store.epicgames.com/en-US/p/112-operator-f34b0b) |
-| Road Redemption | 2025-08-07 → 2025-08-14 | [Store Page](https://store.epicgames.com/en-US/p/road-redemption-ce16fb) |
+| Strange Horticulture | 2025-08-21 → 2025-08-28 | [Store Page](https://store.epicgames.com/en-US/p/strange-horticulture-360e80) |
+| Kamaeru | 2025-08-21 → 2025-08-28 | [Store Page](https://store.epicgames.com/en-US/p/kamaeru-0c301e) |
 | Hidden Folks | 2025-08-14 → 2025-08-21 | [Store Page](https://store.epicgames.com/en-US/p/hidden-folks-239d16) |
 
 <!-- END_GAMES_TABLE -->
