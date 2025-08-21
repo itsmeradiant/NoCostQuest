@@ -1,12 +1,5 @@
 [
   {
-    "title": "Totally Reliable Delivery Service Standard Edition",
-    "description": "Buckle up your back brace and fire up the delivery truck, it's time to deliver! Join up to three friends and haphazardly get the job done in an interactive sandbox world. Delivery attempted, that's a Totally Reliable Delivery Service guarantee!",
-    "url": "https://store.epicgames.com/en-US/p/totally-reliable-delivery-service",
-    "startDate": "2025-08-14",
-    "endDate": "2025-08-21"
-  },
-  {
     "title": "Strange Horticulture",
     "description": "An occult puzzle game in which you play as the proprietor of a local plant store. Find and identify new plants, pet your cat, speak to a coven, or join a cult. Use your collection of powerful plants to influence the story and unravel Undermere\u2019s dark mysteries.",
     "url": "https://store.epicgames.com/en-US/p/strange-horticulture-360e80",
@@ -21,10 +14,17 @@
     "endDate": "2025-08-28"
   },
   {
-    "title": "Hidden Folks",
-    "description": "Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl tent flaps, cut through bushes, slam doors, and poke some crocodiles! Rooooaaaarrrr!!!!!",
-    "url": "https://store.epicgames.com/en-US/p/hidden-folks-239d16",
-    "startDate": "2025-08-14",
-    "endDate": "2025-08-21"
+    "title": "Machinarium",
+    "description": "Machinarium is the award-winning independent adventure game developed by the makers of Samorost series, Botanicula and CHUCHEL. Help Josef the robot save his girlfriend Berta kidnapped by the Black Cap Brotherhood gang!",
+    "url": "https://store.epicgames.com/en-US/p/machinarium-5e6c71",
+    "startDate": "2025-08-28",
+    "endDate": "2025-09-04"
+  },
+  {
+    "title": "Make Way",
+    "description": "Speed around loops, dart through train crossings, drift around helter skelters, and unleash wacky weaponry in this modern take on classic top-down multiplayer racing games. The twist? You build the track.",
+    "url": "https://store.epicgames.com/en-US/p/make-way-bddf5f",
+    "startDate": "2025-08-28",
+    "endDate": "2025-09-04"
   }
 ]
