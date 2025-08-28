@@ -1,19 +1,5 @@
 [
   {
-    "title": "Strange Horticulture",
-    "description": "An occult puzzle game in which you play as the proprietor of a local plant store. Find and identify new plants, pet your cat, speak to a coven, or join a cult. Use your collection of powerful plants to influence the story and unravel Undermere\u2019s dark mysteries.",
-    "url": "https://store.epicgames.com/en-US/p/strange-horticulture-360e80",
-    "startDate": "2025-08-21",
-    "endDate": "2025-08-28"
-  },
-  {
-    "title": "Kamaeru",
-    "description": "Foster a sanctuary for frogs and restore the biodiversity of the wetlands in Kamaeru, a cozy frog collecting game, where you take pictures of frogs, play mini-games and decorate your habitat. Hop right to it!",
-    "url": "https://store.epicgames.com/en-US/p/kamaeru-0c301e",
-    "startDate": "2025-08-21",
-    "endDate": "2025-08-28"
-  },
-  {
     "title": "Machinarium",
     "description": "Machinarium is the award-winning independent adventure game developed by the makers of Samorost series, Botanicula and CHUCHEL. Help Josef the robot save his girlfriend Berta kidnapped by the Black Cap Brotherhood gang!",
     "url": "https://store.epicgames.com/en-US/p/machinarium-5e6c71",
@@ -21,10 +7,24 @@
     "endDate": "2025-09-04"
   },
   {
+    "title": "The Battle of Polytopia",
+    "description": "Award-winning strategy game! Build your civilization, master tech, conquer tribes, and dominate the world map!",
+    "url": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-11"
+  },
+  {
     "title": "Make Way",
     "description": "Speed around loops, dart through train crossings, drift around helter skelters, and unleash wacky weaponry in this modern take on classic top-down multiplayer racing games. The twist? You build the track.",
     "url": "https://store.epicgames.com/en-US/p/make-way-bddf5f",
     "startDate": "2025-08-28",
     "endDate": "2025-09-04"
+  },
+  {
+    "title": "Monument Valley",
+    "description": "Embark on a journey of forgiveness through impossible environments and illusionary puzzles. Experience this meditative and calming puzzle game by manipulating monuments and creating evolving paths to explore new, surreal, and mysterious worlds.",
+    "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
+    "startDate": "2025-09-04",
+    "endDate": "2025-09-11"
   }
 ]
