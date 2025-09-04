@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Machinarium | 2025-08-28 → 2025-09-04 | [Store Page](https://store.epicgames.com/en-US/p/machinarium-5e6c71) |
-| The Battle of Polytopia | 2025-09-04 → 2025-09-11 | [Store Page](https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6) |
-| Make Way | 2025-08-28 → 2025-09-04 | [Store Page](https://store.epicgames.com/en-US/p/make-way-bddf5f) |
+| Ghostrunner 2 | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/ghostrunner-2) |
+| The Battle of Polytopia | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6) |
 | Monument Valley | 2025-09-04 → 2025-09-11 | [Store Page](https://store.epicgames.com/en-US/p/monument-valley-1d99d3) |
+| Monument Valley 2 | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/monument-valley-2-addd02) |
 
 <!-- END_GAMES_TABLE -->
 

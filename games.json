@@ -1,24 +1,17 @@
 [
   {
-    "title": "Machinarium",
-    "description": "Machinarium is the award-winning independent adventure game developed by the makers of Samorost series, Botanicula and CHUCHEL. Help Josef the robot save his girlfriend Berta kidnapped by the Black Cap Brotherhood gang!",
-    "url": "https://store.epicgames.com/en-US/p/machinarium-5e6c71",
-    "startDate": "2025-08-28",
-    "endDate": "2025-09-04"
+    "title": "Ghostrunner 2",
+    "description": "Ghostrunner 2 is a hardcore FPP slasher set in a post-apocalyptic, cyberpunk world. Featuring everything fans loved about Ghostrunner plus incredible boss fights, new interactive story, thrilling motorbike levels, improved skills, and more cyber ninja action. ",
+    "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
+    "startDate": "2025-09-11",
+    "endDate": "2025-09-18"
   },
   {
     "title": "The Battle of Polytopia",
     "description": "Award-winning strategy game! Build your civilization, master tech, conquer tribes, and dominate the world map!",
     "url": "https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6",
-    "startDate": "2025-09-04",
-    "endDate": "2025-09-11"
-  },
-  {
-    "title": "Make Way",
-    "description": "Speed around loops, dart through train crossings, drift around helter skelters, and unleash wacky weaponry in this modern take on classic top-down multiplayer racing games. The twist? You build the track.",
-    "url": "https://store.epicgames.com/en-US/p/make-way-bddf5f",
-    "startDate": "2025-08-28",
-    "endDate": "2025-09-04"
+    "startDate": "2025-09-11",
+    "endDate": "2025-09-18"
   },
   {
     "title": "Monument Valley",
@@ -26,5 +19,12 @@
     "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
     "startDate": "2025-09-04",
     "endDate": "2025-09-11"
+  },
+  {
+    "title": "Monument Valley 2",
+    "description": "Discover illusionary pathways and delightful puzzles as you learn the secrets of The Sacred Geometry. Follow the heart warming story of Ro in her journey through motherhood. Rediscover independence through manipulating monuments and evolving paths to explore new worlds.",
+    "url": "https://store.epicgames.com/en-US/p/monument-valley-2-addd02",
+    "startDate": "2025-09-11",
+    "endDate": "2025-09-18"
   }
 ]
