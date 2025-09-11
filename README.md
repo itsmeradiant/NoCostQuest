@@ -35,10 +35,11 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
+| Samorost 2 | 2025-09-18 → 2025-09-25 | [Store Page](https://store.epicgames.com/en-US/p/samorost-2-1b9bb1) |
 | Ghostrunner 2 | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/ghostrunner-2) |
 | The Battle of Polytopia | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6) |
-| Monument Valley | 2025-09-04 → 2025-09-11 | [Store Page](https://store.epicgames.com/en-US/p/monument-valley-1d99d3) |
 | Monument Valley 2 | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/monument-valley-2-addd02) |
+| Project Winter | 2025-09-18 → 2025-09-25 | [Store Page](https://store.epicgames.com/en-US/p/project-winter-3b9e84) |
 
 <!-- END_GAMES_TABLE -->
 

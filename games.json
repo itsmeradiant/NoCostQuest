@@ -1,5 +1,12 @@
 [
   {
+    "title": "Samorost 2",
+    "description": "Samorost 2 tells a surreal story of a space gnome whose dog just got kidnapped by mischievous aliens. Set out on a short expedition to rescue the pup, deal with curious strangers and relax to the soothing music by Tom\u00e1\u0161 \"Floex\" Dvo\u0159\u00e1k.",
+    "url": "https://store.epicgames.com/en-US/p/samorost-2-1b9bb1",
+    "startDate": "2025-09-18",
+    "endDate": "2025-09-25"
+  },
+  {
     "title": "Ghostrunner 2",
     "description": "Ghostrunner 2 is a hardcore FPP slasher set in a post-apocalyptic, cyberpunk world. Featuring everything fans loved about Ghostrunner plus incredible boss fights, new interactive story, thrilling motorbike levels, improved skills, and more cyber ninja action. ",
     "url": "https://store.epicgames.com/en-US/p/ghostrunner-2",
@@ -14,17 +21,17 @@
     "endDate": "2025-09-18"
   },
   {
-    "title": "Monument Valley",
-    "description": "Embark on a journey of forgiveness through impossible environments and illusionary puzzles. Experience this meditative and calming puzzle game by manipulating monuments and creating evolving paths to explore new, surreal, and mysterious worlds.",
-    "url": "https://store.epicgames.com/en-US/p/monument-valley-1d99d3",
-    "startDate": "2025-09-04",
-    "endDate": "2025-09-11"
-  },
-  {
     "title": "Monument Valley 2",
     "description": "Discover illusionary pathways and delightful puzzles as you learn the secrets of The Sacred Geometry. Follow the heart warming story of Ro in her journey through motherhood. Rediscover independence through manipulating monuments and evolving paths to explore new worlds.",
     "url": "https://store.epicgames.com/en-US/p/monument-valley-2-addd02",
     "startDate": "2025-09-11",
     "endDate": "2025-09-18"
+  },
+  {
+    "title": "Project Winter",
+    "description": "In Project Winter, survival is just the beginning. Work with your friends to escape the icy wilderness, but don\u2019t get too comfortable. Traitors lurk among you, ready to lie, sabotage, and turn even the closest of friends against each other. Who will you trust?",
+    "url": "https://store.epicgames.com/en-US/p/project-winter-3b9e84",
+    "startDate": "2025-09-18",
+    "endDate": "2025-09-25"
   }
 ]
