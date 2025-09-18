@@ -36,9 +36,8 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Samorost 2 | 2025-09-18 → 2025-09-25 | [Store Page](https://store.epicgames.com/en-US/p/samorost-2-1b9bb1) |
-| Ghostrunner 2 | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/ghostrunner-2) |
-| The Battle of Polytopia | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6) |
-| Monument Valley 2 | 2025-09-11 → 2025-09-18 | [Store Page](https://store.epicgames.com/en-US/p/monument-valley-2-addd02) |
+| Eastern Exorcist | 2025-09-25 → 2025-10-02 | [Store Page](https://store.epicgames.com/en-US/p/eastern-exorcist-d49923) |
+| Jorel’s Brother and The Most Important Game of the Galaxy | 2025-09-25 → 2025-10-02 | [Store Page](https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f) |
 | Project Winter | 2025-09-18 → 2025-09-25 | [Store Page](https://store.epicgames.com/en-US/p/project-winter-3b9e84) |
 
 <!-- END_GAMES_TABLE -->
