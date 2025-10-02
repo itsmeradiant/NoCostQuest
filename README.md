@@ -36,9 +36,9 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Firestone Online Idle RPG | 2025-10-02 → 2025-10-09 | [Store Page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
-| Eastern Exorcist | 2025-09-25 → 2025-10-02 | [Store Page](https://store.epicgames.com/en-US/p/eastern-exorcist-d49923) |
+| Gravity Circuit | 2025-10-09 → 2025-10-16 | [Store Page](https://store.epicgames.com/en-US/p/gravity-circuit-489baa) |
 | Nightingale | 2025-10-02 → 2025-10-09 | [Store Page](https://store.epicgames.com/en-US/p/nightingale) |
-| Jorel’s Brother and The Most Important Game of the Galaxy | 2025-09-25 → 2025-10-02 | [Store Page](https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f) |
+| Rogue Journeyman Bundle | 2025-10-09 → 2025-10-16 | [Store Page](https://store.epicgames.com/en-US/p/albion-online-7eb24d) |
 
 <!-- END_GAMES_TABLE -->
 
