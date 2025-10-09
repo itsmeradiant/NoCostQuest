@@ -35,9 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Firestone Online Idle RPG | 2025-10-02 → 2025-10-09 | [Store Page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
+| Amnesia: The Bunker | 2025-10-16 → 2025-10-23 | [Store Page](https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799) |
+| Samorost 3 | 2025-10-16 → 2025-10-23 | [Store Page](https://store.epicgames.com/en-US/p/samorost-3-0c4489) |
 | Gravity Circuit | 2025-10-09 → 2025-10-16 | [Store Page](https://store.epicgames.com/en-US/p/gravity-circuit-489baa) |
-| Nightingale | 2025-10-02 → 2025-10-09 | [Store Page](https://store.epicgames.com/en-US/p/nightingale) |
 | Rogue Journeyman Bundle | 2025-10-09 → 2025-10-16 | [Store Page](https://store.epicgames.com/en-US/p/albion-online-7eb24d) |
 
 <!-- END_GAMES_TABLE -->
