@@ -37,8 +37,7 @@ Last updated: 2025-04-20
 |--------|--------------|---------|
 | Amnesia: The Bunker | 2025-10-16 → 2025-10-23 | [Store Page](https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799) |
 | Samorost 3 | 2025-10-16 → 2025-10-23 | [Store Page](https://store.epicgames.com/en-US/p/samorost-3-0c4489) |
-| Gravity Circuit | 2025-10-09 → 2025-10-16 | [Store Page](https://store.epicgames.com/en-US/p/gravity-circuit-489baa) |
-| Rogue Journeyman Bundle | 2025-10-09 → 2025-10-16 | [Store Page](https://store.epicgames.com/en-US/p/albion-online-7eb24d) |
+| Fear the Spotlight | 2025-10-23 → 2025-10-30 | [Store Page](https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f) |
 
 <!-- END_GAMES_TABLE -->
 
