@@ -35,9 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Amnesia: The Bunker | 2025-10-16 → 2025-10-23 | [Store Page](https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799) |
-| Samorost 3 | 2025-10-16 → 2025-10-23 | [Store Page](https://store.epicgames.com/en-US/p/samorost-3-0c4489) |
+| Bendy and the Ink Machine | 2025-10-30 → 2025-11-06 | [Store Page](https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a) |
 | Fear the Spotlight | 2025-10-23 → 2025-10-30 | [Store Page](https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f) |
+| Five Nights at Freddy's: Into the Pit | 2025-10-30 → 2025-11-06 | [Store Page](https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563) |
 
 <!-- END_GAMES_TABLE -->
 

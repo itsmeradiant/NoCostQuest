@@ -1,17 +1,10 @@
 [
   {
-    "title": "Amnesia: The Bunker",
-    "description": "Amnesia: The Bunker is a first-person horror game set in a desolate WW1 Bunker.\n\nFace the oppressing terrors stalking in the dark. Search for and use the tools and weapons at your disposal. Keep the lights on at all costs and make your way out alive.",
-    "url": "https://store.epicgames.com/en-US/p/amnesia-the-bunker-9d5799",
-    "startDate": "2025-10-16",
-    "endDate": "2025-10-23"
-  },
-  {
-    "title": "Samorost 3",
-    "description": "Samorost 3 follows a curious space gnome who uses the powers of a magic flute to travel across the cosmos in search of its mysterious origins. Visit nine unique and alien worlds teeming with colorful challenges, creatures and surprises to discover.",
-    "url": "https://store.epicgames.com/en-US/p/samorost-3-0c4489",
-    "startDate": "2025-10-16",
-    "endDate": "2025-10-23"
+    "title": "Bendy and the Ink Machine",
+    "description": "Bendy and the Ink Machine\u00ae is the first person puzzle action horror game that will forever ruin your childhood love of cartoons.",
+    "url": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a",
+    "startDate": "2025-10-30",
+    "endDate": "2025-11-06"
   },
   {
     "title": "Fear the Spotlight",
@@ -19,5 +12,12 @@
     "url": "https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f",
     "startDate": "2025-10-23",
     "endDate": "2025-10-30"
+  },
+  {
+    "title": "Five Nights at Freddy's: Into the Pit",
+    "description": "Survive five nights of terror in this chilling adventure game. Travel between time periods to solve puzzles, gather clues, and outrun the threat pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful\u2014it's not just your own life that\u2019s on the line.",
+    "url": "https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563",
+    "startDate": "2025-10-30",
+    "endDate": "2025-11-06"
   }
 ]
