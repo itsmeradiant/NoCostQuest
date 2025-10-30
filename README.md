@@ -35,9 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
+| Idle Champions of the Forgotten Realms | 2025-11-06 → 2025-11-13 | [Store Page](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms) |
 | Bendy and the Ink Machine | 2025-10-30 → 2025-11-06 | [Store Page](https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a) |
-| Fear the Spotlight | 2025-10-23 → 2025-10-30 | [Store Page](https://store.epicgames.com/en-US/p/fear-the-spotlight-97656f) |
 | Five Nights at Freddy's: Into the Pit | 2025-10-30 → 2025-11-06 | [Store Page](https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563) |
+| Felix The Reaper | 2025-11-06 → 2025-11-13 | [Store Page](https://store.epicgames.com/en-US/p/felix-the-reaper-3f7e62) |
 
 <!-- END_GAMES_TABLE -->
 
