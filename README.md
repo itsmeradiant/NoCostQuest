@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
+| Scourgebringer | 2025-11-13 → 2025-11-20 | [Store Page](https://store.epicgames.com/en-US/p/scourgebringer) |
 | Idle Champions of the Forgotten Realms | 2025-11-06 → 2025-11-13 | [Store Page](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms) |
-| Bendy and the Ink Machine | 2025-10-30 → 2025-11-06 | [Store Page](https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a) |
-| Five Nights at Freddy's: Into the Pit | 2025-10-30 → 2025-11-06 | [Store Page](https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563) |
 | Felix The Reaper | 2025-11-06 → 2025-11-13 | [Store Page](https://store.epicgames.com/en-US/p/felix-the-reaper-3f7e62) |
+| Songs of Silence | 2025-11-13 → 2025-11-20 | [Store Page](https://store.epicgames.com/en-US/p/songs-of-silence-778d86) |
 
 <!-- END_GAMES_TABLE -->
 

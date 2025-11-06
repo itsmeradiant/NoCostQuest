@@ -1,5 +1,12 @@
 [
   {
+    "title": "Scourgebringer",
+    "description": "ScourgeBringer is a fast-paced free-moving rogue-lite platformer. Help Kyhra to explore the unknown and slash her way through ancient machines guarding the seal of her past, and maybe the redemption of humanity.",
+    "url": "https://store.epicgames.com/en-US/p/scourgebringer",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-20"
+  },
+  {
     "title": "Idle Champions of the Forgotten Realms",
     "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
     "url": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
@@ -7,24 +14,17 @@
     "endDate": "2025-11-13"
   },
   {
-    "title": "Bendy and the Ink Machine",
-    "description": "Bendy and the Ink Machine\u00ae is the first person puzzle action horror game that will forever ruin your childhood love of cartoons.",
-    "url": "https://store.epicgames.com/en-US/p/bendy-and-the-ink-machine-60cf5a",
-    "startDate": "2025-10-30",
-    "endDate": "2025-11-06"
-  },
-  {
-    "title": "Five Nights at Freddy's: Into the Pit",
-    "description": "Survive five nights of terror in this chilling adventure game. Travel between time periods to solve puzzles, gather clues, and outrun the threat pursuing you. Move swiftly and stay hidden, and you may just survive. But be careful\u2014it's not just your own life that\u2019s on the line.",
-    "url": "https://store.epicgames.com/en-US/p/five-nights-at-freddys-into-the-pit-99c563",
-    "startDate": "2025-10-30",
-    "endDate": "2025-11-06"
-  },
-  {
     "title": "Felix The Reaper",
     "description": "Felix The Reaper is a challenging and strict 3D puzzle game about bringing humans into deadly situations. You are Felix, the ever-dancing bringer of death, who just so happens to be dangerously in love with Life.",
     "url": "https://store.epicgames.com/en-US/p/felix-the-reaper-3f7e62",
     "startDate": "2025-11-06",
     "endDate": "2025-11-13"
+  },
+  {
+    "title": "Songs of Silence",
+    "description": "Lead armies, rebuild fallen kingdoms, and rise to greatness in Songs of Silence. Embark on an epic journey through an Art Nouveau-inspired fantasy world with intense battles and captivating storytelling!",
+    "url": "https://store.epicgames.com/en-US/p/songs-of-silence-778d86",
+    "startDate": "2025-11-13",
+    "endDate": "2025-11-20"
   }
 ]
