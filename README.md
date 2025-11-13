@@ -36,9 +36,8 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Scourgebringer | 2025-11-13 → 2025-11-20 | [Store Page](https://store.epicgames.com/en-US/p/scourgebringer) |
-| Idle Champions of the Forgotten Realms | 2025-11-06 → 2025-11-13 | [Store Page](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms) |
-| Felix The Reaper | 2025-11-06 → 2025-11-13 | [Store Page](https://store.epicgames.com/en-US/p/felix-the-reaper-3f7e62) |
 | Songs of Silence | 2025-11-13 → 2025-11-20 | [Store Page](https://store.epicgames.com/en-US/p/songs-of-silence-778d86) |
+| Zero Hour | 2025-11-13 → 2025-11-20 | [Store Page](https://store.epicgames.com/en-US/p/zero-hour-8449a0) |
 
 <!-- END_GAMES_TABLE -->
 
