@@ -35,9 +35,8 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Scourgebringer | 2025-11-13 → 2025-11-20 | [Store Page](https://store.epicgames.com/en-US/p/scourgebringer) |
-| Songs of Silence | 2025-11-13 → 2025-11-20 | [Store Page](https://store.epicgames.com/en-US/p/songs-of-silence-778d86) |
-| Zero Hour | 2025-11-13 → 2025-11-20 | [Store Page](https://store.epicgames.com/en-US/p/zero-hour-8449a0) |
+| Godzilla Voxel Wars | 2025-11-20 → 2025-11-27 | [Store Page](https://store.epicgames.com/en-US/p/godzillawars-2c30e4) |
+| Universe for Sale | 2025-11-27 → 2025-12-04 | [Store Page](https://store.epicgames.com/en-US/p/universe-for-sale-05c53e) |
 
 <!-- END_GAMES_TABLE -->
 
