@@ -35,7 +35,7 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Godzilla Voxel Wars | 2025-11-20 → 2025-11-27 | [Store Page](https://store.epicgames.com/en-US/p/godzillawars-2c30e4) |
+| The Darkside Detective | 2025-12-04 → 2025-12-11 | [Store Page](https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a) |
 | Universe for Sale | 2025-11-27 → 2025-12-04 | [Store Page](https://store.epicgames.com/en-US/p/universe-for-sale-05c53e) |
 
 <!-- END_GAMES_TABLE -->
