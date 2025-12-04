@@ -1,5 +1,12 @@
 [
   {
+    "title": "The Jackbox Party Pack 4",
+    "description": "The biggest and fourthiest addition to this storied party game franchise features not five but FIVE AND A HALF crowd-slaying games!",
+    "url": "https://store.epicgames.com/en-US/p/jackbox-party-pack-4",
+    "startDate": "2025-12-04",
+    "endDate": "2025-12-11"
+  },
+  {
     "title": "The Darkside Detective",
     "description": "Grab your trench coat, tune your sixth sense and join the Darkside Division as they investigate the bizarre, the downright dangerous and the mildly confusing cases of Twin Lakes.",
     "url": "https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a",
@@ -7,10 +14,10 @@
     "endDate": "2025-12-11"
   },
   {
-    "title": "Universe for Sale",
-    "description": "A space station nestled in the clouds of Jupiter. A bizarre bazaar where a young, worried woman crafts entire universes in the palm of her hand. A mysterious cultist who's stripped the flesh from his bones in order to reach enlightenment. There's a universe for sale. You buying?",
-    "url": "https://store.epicgames.com/en-US/p/universe-for-sale-05c53e",
-    "startDate": "2025-11-27",
-    "endDate": "2025-12-04"
+    "title": "Mystery Game 1",
+    "description": "Mystery Game 1",
+    "url": "https://store.epicgames.com/en-US/p/mysterygame2025-1",
+    "startDate": "2025-12-12",
+    "endDate": "2025-12-18"
   }
 ]
