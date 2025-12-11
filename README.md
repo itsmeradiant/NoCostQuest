@@ -35,9 +35,8 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| The Jackbox Party Pack 4 | 2025-12-04 → 2025-12-11 | [Store Page](https://store.epicgames.com/en-US/p/jackbox-party-pack-4) |
-| The Darkside Detective | 2025-12-04 → 2025-12-11 | [Store Page](https://store.epicgames.com/en-US/p/the-darkside-detective-02fd5a) |
 | Mystery Game 1 | 2025-12-12 → 2025-12-18 | [Store Page](https://store.epicgames.com/en-US/p/mysterygame2025-1) |
+| Mystery Game 2 | 2025-12-18 → 2025-12-19 | [Store Page](https://store.epicgames.com/en-US/p/mysterygame2025-2) |
 
 <!-- END_GAMES_TABLE -->
 
