@@ -1,16 +1,16 @@
 [
   {
-    "title": "Mystery Game 1",
-    "description": "Mystery Game 1",
-    "url": "https://store.epicgames.com/en-US/p/mysterygame2025-1",
-    "startDate": "2025-12-12",
-    "endDate": "2025-12-18"
-  },
-  {
-    "title": "Mystery Game 2",
-    "description": "Mystery Game 2",
+    "title": "Jotunnslayer: Hordes of Hel",
+    "description": "Hordes of Hel is a gripping roguelike horde-survivor game set in the dark realms of Norse Mythology. Fight waves of enemies to earn divine blessings of ancient Norse Gods, explore hostile worlds and face powerful bosses. Become a god-like warrior in this ultimate showdown.",
     "url": "https://store.epicgames.com/en-US/p/mysterygame2025-2",
     "startDate": "2025-12-18",
     "endDate": "2025-12-19"
+  },
+  {
+    "title": "Mystery Game 3",
+    "description": "Mystery Game 3",
+    "url": "https://store.epicgames.com/en-US/p/mysterygame2025-3",
+    "startDate": "2025-12-19",
+    "endDate": "2025-12-20"
   }
 ]

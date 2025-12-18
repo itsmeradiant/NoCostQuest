@@ -35,8 +35,8 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Mystery Game 1 | 2025-12-12 → 2025-12-18 | [Store Page](https://store.epicgames.com/en-US/p/mysterygame2025-1) |
-| Mystery Game 2 | 2025-12-18 → 2025-12-19 | [Store Page](https://store.epicgames.com/en-US/p/mysterygame2025-2) |
+| Jotunnslayer: Hordes of Hel | 2025-12-18 → 2025-12-19 | [Store Page](https://store.epicgames.com/en-US/p/mysterygame2025-2) |
+| Mystery Game 3 | 2025-12-19 → 2025-12-20 | [Store Page](https://store.epicgames.com/en-US/p/mysterygame2025-3) |
 
 <!-- END_GAMES_TABLE -->
 
