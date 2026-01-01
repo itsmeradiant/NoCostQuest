@@ -1,16 +1,23 @@
 [
   {
-    "title": "Disco Elysium - The Final Cut",
-    "description": "Disco Elysium - The Final Cut is a groundbreaking role playing game. You\u2019re a detective with a unique skill system at your disposal. Interrogate unforgettable characters, crack murders or take bribes. Become a hero or an absolute disaster of a human being.",
-    "url": "https://store.epicgames.com/en-US/p/mysterygame2025-9",
-    "startDate": "2025-12-25",
-    "endDate": "2025-12-26"
+    "title": "Bloons TD 6",
+    "description": "The Bloons are back and better than ever! Get ready for a massive 3D tower defense game designed to give you hours and hours of the best strategy gaming available.",
+    "url": "https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0",
+    "startDate": "2026-01-08",
+    "endDate": "2026-01-15"
   },
   {
-    "title": "Mystery Game 10",
-    "description": "Mystery Game 10",
-    "url": "https://store.epicgames.com/en-US/p/mysterygame2025-10",
-    "startDate": "2025-12-26",
-    "endDate": "2025-12-27"
+    "title": "Wildgate",
+    "description": "Wildgate is a crew-based PVP multiplayer shooter that blends tactical ship-to-ship combat with fast-paced first-person action. Evade deadly environmental hazards, search for powerful weapons and ship upgrades, and be the first crew to escape with the Artifact.",
+    "url": "https://store.epicgames.com/en-US/p/mysterygame2025-17",
+    "startDate": "2026-01-01",
+    "endDate": "2026-01-08"
+  },
+  {
+    "title": "Total War: THREE KINGDOMS",
+    "description": "Total War: THREE KINGDOMS recreates epic conflict across ancient China in an age of heroes and legends, combining gripping empire-building, statecraft and conquest with stunning real-time battles.",
+    "url": "https://store.epicgames.com/en-US/p/mysterygame2025-16",
+    "startDate": "2026-01-01",
+    "endDate": "2026-01-08"
   }
 ]
