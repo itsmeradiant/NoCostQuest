@@ -36,8 +36,8 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Bloons TD 6 | 2026-01-08 → 2026-01-15 | [Store Page](https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0) |
-| Wildgate | 2026-01-01 → 2026-01-08 | [Store Page](https://store.epicgames.com/en-US/p/mysterygame2025-17) |
-| Total War: THREE KINGDOMS | 2026-01-01 → 2026-01-08 | [Store Page](https://store.epicgames.com/en-US/p/mysterygame2025-16) |
+| Styx: Master of Shadows | 2026-01-15 → 2026-01-22 | [Store Page](https://store.epicgames.com/en-US/p/styx-master-of-shadows-4d9ab3) |
+| Styx: Shards of Darkness | 2026-01-15 → 2026-01-22 | [Store Page](https://store.epicgames.com/en-US/p/styx-shards-of-darkness-77c030) |
 
 <!-- END_GAMES_TABLE -->
 
