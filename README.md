@@ -35,9 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Bloons TD 6 | 2026-01-08 → 2026-01-15 | [Store Page](https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0) |
 | Styx: Master of Shadows | 2026-01-15 → 2026-01-22 | [Store Page](https://store.epicgames.com/en-US/p/styx-master-of-shadows-4d9ab3) |
-| Styx: Shards of Darkness | 2026-01-15 → 2026-01-22 | [Store Page](https://store.epicgames.com/en-US/p/styx-shards-of-darkness-77c030) |
+| Styx: Shards of Darkness - Deluxe Edition | 2026-01-15 → 2026-01-22 | [Store Page](https://store.epicgames.com/en-US/p/styx-shards-of-darkness-77c030) |
+| Rustler - Grand Theft Horse | 2026-01-22 → 2026-01-29 | [Store Page](https://store.epicgames.com/en-US/p/rustler-grand-theft-horse-21a7ca) |
 
 <!-- END_GAMES_TABLE -->
 
