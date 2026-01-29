@@ -35,7 +35,7 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Rustler - Grand Theft Horse | 2026-01-22 → 2026-01-29 | [Store Page](https://store.epicgames.com/en-US/p/rustler-grand-theft-horse-21a7ca) |
+| Poison Retro Set | 2026-02-05 → 2026-02-12 | [Store Page](https://store.epicgames.com/en-US/p/pixel-gun-3d-812855) |
 | Definitely Not Fried Chicken | 2026-01-29 → 2026-02-05 | [Store Page](https://store.epicgames.com/en-US/p/definitely-not-fried-chicken-a30160) |
 
 <!-- END_GAMES_TABLE -->
