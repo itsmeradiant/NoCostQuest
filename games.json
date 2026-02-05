@@ -1,5 +1,19 @@
 [
   {
+    "title": "The Darkside Detective A Fumble in the Dark",
+    "description": "Join Detective McQueen as he puzzles his way through 6 cases, risking life and pixelated limb to solve the macabre mysteries that plague the poor town.",
+    "url": "https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf",
+    "startDate": "2026-02-12",
+    "endDate": "2026-02-19"
+  },
+  {
+    "title": "Botany Manor",
+    "description": "Welcome to Botany Manor, a stately home in 19th century England. You play as inhabitant Arabella Greene, a retired botanist. Explore your house and gardens, filled with research, to figure out the ideal habitat of forgotten flora.",
+    "url": "https://store.epicgames.com/en-US/p/botany-manor-e7c456",
+    "startDate": "2026-02-05",
+    "endDate": "2026-02-12"
+  },
+  {
     "title": "Poison Retro Set",
     "description": "Step back in time and forward into battle with the Poison Retro Set, inspired by the electrifying Arcade Season.",
     "url": "https://store.epicgames.com/en-US/p/pixel-gun-3d-812855",
@@ -7,10 +21,10 @@
     "endDate": "2026-02-12"
   },
   {
-    "title": "Definitely Not Fried Chicken",
-    "description": "Definitely Not Fried Chicken is a business management sim with a Twist! Grow your drugs trade through legitimate fronts, managing both sides of the business. Acquire new \"businesses\", meet new clientele, Develop more potent narcotics, make lots of money and leave a city in ruin!",
-    "url": "https://store.epicgames.com/en-US/p/definitely-not-fried-chicken-a30160",
-    "startDate": "2026-01-29",
-    "endDate": "2026-02-05"
+    "title": "Nobody Wants to Die",
+    "description": "Lose yourself in the dystopian world of New York, 2329. In this interactive noir story, lead the investigation using advanced technology as Detective James Karra, who risks it all in pursuit of a serial killer targeting the city\u2019s elite.",
+    "url": "https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd",
+    "startDate": "2026-02-12",
+    "endDate": "2026-02-19"
   }
 ]

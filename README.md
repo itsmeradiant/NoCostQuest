@@ -35,8 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
+| The Darkside Detective A Fumble in the Dark | 2026-02-12 → 2026-02-19 | [Store Page](https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf) |
+| Botany Manor | 2026-02-05 → 2026-02-12 | [Store Page](https://store.epicgames.com/en-US/p/botany-manor-e7c456) |
 | Poison Retro Set | 2026-02-05 → 2026-02-12 | [Store Page](https://store.epicgames.com/en-US/p/pixel-gun-3d-812855) |
-| Definitely Not Fried Chicken | 2026-01-29 → 2026-02-05 | [Store Page](https://store.epicgames.com/en-US/p/definitely-not-fried-chicken-a30160) |
+| Nobody Wants to Die | 2026-02-12 → 2026-02-19 | [Store Page](https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd) |
 
 <!-- END_GAMES_TABLE -->
 
