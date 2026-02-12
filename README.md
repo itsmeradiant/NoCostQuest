@@ -36,9 +36,9 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | The Darkside Detective A Fumble in the Dark | 2026-02-12 → 2026-02-19 | [Store Page](https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf) |
-| Botany Manor | 2026-02-05 → 2026-02-12 | [Store Page](https://store.epicgames.com/en-US/p/botany-manor-e7c456) |
-| Poison Retro Set | 2026-02-05 → 2026-02-12 | [Store Page](https://store.epicgames.com/en-US/p/pixel-gun-3d-812855) |
 | Nobody Wants to Die | 2026-02-12 → 2026-02-19 | [Store Page](https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd) |
+| STALCRAFT: X Starter Edition | 2026-02-19 → 2026-02-26 | [Store Page](https://store.epicgames.com/en-US/p/stalcraft-x-057c4a) |
+| Return to Ash | 2026-02-19 → 2026-02-26 | [Store Page](https://store.epicgames.com/en-US/p/return-to-ash-dee3ff) |
 
 <!-- END_GAMES_TABLE -->
 

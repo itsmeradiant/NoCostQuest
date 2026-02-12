@@ -7,24 +7,24 @@
     "endDate": "2026-02-19"
   },
   {
-    "title": "Botany Manor",
-    "description": "Welcome to Botany Manor, a stately home in 19th century England. You play as inhabitant Arabella Greene, a retired botanist. Explore your house and gardens, filled with research, to figure out the ideal habitat of forgotten flora.",
-    "url": "https://store.epicgames.com/en-US/p/botany-manor-e7c456",
-    "startDate": "2026-02-05",
-    "endDate": "2026-02-12"
-  },
-  {
-    "title": "Poison Retro Set",
-    "description": "Step back in time and forward into battle with the Poison Retro Set, inspired by the electrifying Arcade Season.",
-    "url": "https://store.epicgames.com/en-US/p/pixel-gun-3d-812855",
-    "startDate": "2026-02-05",
-    "endDate": "2026-02-12"
-  },
-  {
     "title": "Nobody Wants to Die",
     "description": "Lose yourself in the dystopian world of New York, 2329. In this interactive noir story, lead the investigation using advanced technology as Detective James Karra, who risks it all in pursuit of a serial killer targeting the city\u2019s elite.",
     "url": "https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd",
     "startDate": "2026-02-12",
     "endDate": "2026-02-19"
+  },
+  {
+    "title": "STALCRAFT: X Starter Edition",
+    "description": "STALCRAFT: X is a free-to-play MMOFPS with RPG elements.\n\nStart exploring the world of the Zone with a Starter Pack. It includes everything you need for your initial raids: a 7-day Premium, weapons, armor, artifacts, and cosmetics.",
+    "url": "https://store.epicgames.com/en-US/p/stalcraft-x-057c4a",
+    "startDate": "2026-02-19",
+    "endDate": "2026-02-26"
+  },
+  {
+    "title": "Return to Ash",
+    "description": "\u201cThe hospital was empty. Quiet, and brighter than usual... like waking up on a snow day. But I didn't feel cold. I didn't feel much of anything.\u201d",
+    "url": "https://store.epicgames.com/en-US/p/return-to-ash-dee3ff",
+    "startDate": "2026-02-19",
+    "endDate": "2026-02-26"
   }
 ]
