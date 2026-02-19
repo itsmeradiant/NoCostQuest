@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| The Darkside Detective A Fumble in the Dark | 2026-02-12 → 2026-02-19 | [Store Page](https://store.epicgames.com/en-US/p/the-darkside-detective-a-fumble-in-the-dark-174fcf) |
-| Nobody Wants to Die | 2026-02-12 → 2026-02-19 | [Store Page](https://store.epicgames.com/en-US/p/nobody-wants-to-die-fe21cd) |
-| STALCRAFT: X Starter Edition | 2026-02-19 → 2026-02-26 | [Store Page](https://store.epicgames.com/en-US/p/stalcraft-x-057c4a) |
+| Boxes: Lost Fragments | 2026-02-26 → 2026-03-05 | [Store Page](https://store.epicgames.com/en-US/p/boxes-lost-fragments-079041) |
+| My Night Job | 2026-02-26 → 2026-03-05 | [Store Page](https://store.epicgames.com/en-US/p/my-night-job-a416a6) |
 | Return to Ash | 2026-02-19 → 2026-02-26 | [Store Page](https://store.epicgames.com/en-US/p/return-to-ash-dee3ff) |
+| STALCRAFT: X Starter Edition | 2026-02-19 → 2026-02-26 | [Store Page](https://store.epicgames.com/en-US/p/stalcraft-x-057c4a) |
 
 <!-- END_GAMES_TABLE -->
 
