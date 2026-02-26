@@ -1,5 +1,19 @@
 [
   {
+    "title": "Idle Champions of the Forgotten Realms",
+    "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
+    "url": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
+    "startDate": "2026-03-05",
+    "endDate": "2026-03-12"
+  },
+  {
+    "title": "Turnip Boy Robs a Bank",
+    "description": "Turnip Boy is back! This time he\u2019s teaming up with the fearsome Pickled Gang to plan and execute the weirdest heist of all time.",
+    "url": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
+    "startDate": "2026-03-05",
+    "endDate": "2026-03-12"
+  },
+  {
     "title": "Boxes: Lost Fragments",
     "description": "Escape a lavish mansion full of mysterious puzzle boxes!",
     "url": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-079041",
@@ -12,19 +26,5 @@
     "url": "https://store.epicgames.com/en-US/p/my-night-job-a416a6",
     "startDate": "2026-02-26",
     "endDate": "2026-03-05"
-  },
-  {
-    "title": "Return to Ash",
-    "description": "\u201cThe hospital was empty. Quiet, and brighter than usual... like waking up on a snow day. But I didn't feel cold. I didn't feel much of anything.\u201d",
-    "url": "https://store.epicgames.com/en-US/p/return-to-ash-dee3ff",
-    "startDate": "2026-02-19",
-    "endDate": "2026-02-26"
-  },
-  {
-    "title": "STALCRAFT: X Starter Edition",
-    "description": "STALCRAFT: X is a free-to-play MMOFPS with RPG elements.\n\nStart exploring the world of the Zone with a Starter Pack. It includes everything you need for your initial raids: a 7-day Premium, weapons, armor, artifacts, and cosmetics.",
-    "url": "https://store.epicgames.com/en-US/p/stalcraft-x-057c4a",
-    "startDate": "2026-02-19",
-    "endDate": "2026-02-26"
   }
 ]
