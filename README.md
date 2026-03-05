@@ -36,9 +36,9 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Idle Champions of the Forgotten Realms | 2026-03-05 → 2026-03-12 | [Store Page](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms) |
+| Cozy Grove | 2026-03-12 → 2026-03-19 | [Store Page](https://store.epicgames.com/en-US/p/cozy-grove) |
+| Isonzo | 2026-03-12 → 2026-03-19 | [Store Page](https://store.epicgames.com/en-US/p/isonzo) |
 | Turnip Boy Robs a Bank | 2026-03-05 → 2026-03-12 | [Store Page](https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e) |
-| Boxes: Lost Fragments | 2026-02-26 → 2026-03-05 | [Store Page](https://store.epicgames.com/en-US/p/boxes-lost-fragments-079041) |
-| My Night Job | 2026-02-26 → 2026-03-05 | [Store Page](https://store.epicgames.com/en-US/p/my-night-job-a416a6) |
 
 <!-- END_GAMES_TABLE -->
 

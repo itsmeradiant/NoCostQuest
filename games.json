@@ -7,24 +7,24 @@
     "endDate": "2026-03-12"
   },
   {
+    "title": "Cozy Grove",
+    "description": "Welcome to Cozy Grove, a life-sim game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts.",
+    "url": "https://store.epicgames.com/en-US/p/cozy-grove",
+    "startDate": "2026-03-12",
+    "endDate": "2026-03-19"
+  },
+  {
+    "title": "Isonzo",
+    "description": "Ferocious Alpine warfare will test your tactical skills in this authentic WW1 FPS. Battle among the scenic peaks, rugged valleys and idyllic towns of northern Italy. The Great War on the Italian Front is brought to life and elevated to unexpected heights!",
+    "url": "https://store.epicgames.com/en-US/p/isonzo",
+    "startDate": "2026-03-12",
+    "endDate": "2026-03-19"
+  },
+  {
     "title": "Turnip Boy Robs a Bank",
     "description": "Turnip Boy is back! This time he\u2019s teaming up with the fearsome Pickled Gang to plan and execute the weirdest heist of all time.",
     "url": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
     "startDate": "2026-03-05",
     "endDate": "2026-03-12"
-  },
-  {
-    "title": "Boxes: Lost Fragments",
-    "description": "Escape a lavish mansion full of mysterious puzzle boxes!",
-    "url": "https://store.epicgames.com/en-US/p/boxes-lost-fragments-079041",
-    "startDate": "2026-02-26",
-    "endDate": "2026-03-05"
-  },
-  {
-    "title": "My Night Job",
-    "description": "My Night Job sends players into an abandoned building and sicks hordes of monsters on them. Using more than 60 weapons to defend themselves and save as many survivors as possible. But beware \u2013 if too many rooms are thrashed, the end may be nigh-er than you originally thought.",
-    "url": "https://store.epicgames.com/en-US/p/my-night-job-a416a6",
-    "startDate": "2026-02-26",
-    "endDate": "2026-03-05"
   }
 ]
