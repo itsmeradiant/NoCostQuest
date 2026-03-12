@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Idle Champions of the Forgotten Realms | 2026-03-05 → 2026-03-12 | [Store Page](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms) |
 | Cozy Grove | 2026-03-12 → 2026-03-19 | [Store Page](https://store.epicgames.com/en-US/p/cozy-grove) |
 | Isonzo | 2026-03-12 → 2026-03-19 | [Store Page](https://store.epicgames.com/en-US/p/isonzo) |
-| Turnip Boy Robs a Bank | 2026-03-05 → 2026-03-12 | [Store Page](https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e) |
+| Electrician Simulator | 2026-03-19 → 2026-03-26 | [Store Page](https://store.epicgames.com/en-US/p/electrician-simulator-164e9f) |
+| World of Warships — Epic Anniversary Tachibana Pack | 2026-03-19 → 2026-03-26 | [Store Page](https://store.epicgames.com/en-US/p/world-of-warships) |
 
 <!-- END_GAMES_TABLE -->
 

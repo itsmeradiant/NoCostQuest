@@ -1,12 +1,5 @@
 [
   {
-    "title": "Idle Champions of the Forgotten Realms",
-    "description": "Idle Champions of the Forgotten Realms is a Dungeons & Dragons strategy management game uniting characters from throughout the D&D multiverse into a grand adventure.",
-    "url": "https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms",
-    "startDate": "2026-03-05",
-    "endDate": "2026-03-12"
-  },
-  {
     "title": "Cozy Grove",
     "description": "Welcome to Cozy Grove, a life-sim game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts.",
     "url": "https://store.epicgames.com/en-US/p/cozy-grove",
@@ -21,10 +14,17 @@
     "endDate": "2026-03-19"
   },
   {
-    "title": "Turnip Boy Robs a Bank",
-    "description": "Turnip Boy is back! This time he\u2019s teaming up with the fearsome Pickled Gang to plan and execute the weirdest heist of all time.",
-    "url": "https://store.epicgames.com/en-US/p/turnip-boy-robs-a-bank-3fae0e",
-    "startDate": "2026-03-05",
-    "endDate": "2026-03-12"
+    "title": "Electrician Simulator",
+    "description": "Take on the electrician role and learn the profession's basics! Install sockets, repair worn-out equipment, assemble broken appliances, replace light bulbs, and lay wires at your customers' homes. Be sure to check everything twice, with electricity there are no jokes!",
+    "url": "https://store.epicgames.com/en-US/p/electrician-simulator-164e9f",
+    "startDate": "2026-03-19",
+    "endDate": "2026-03-26"
+  },
+  {
+    "title": "World of Warships \u2014 Epic Anniversary Tachibana Pack",
+    "description": "Get a Premium Japanese destroyer and some Epic permanent camouflages to celebrate our 5th year at Epic Games Store.",
+    "url": "https://store.epicgames.com/en-US/p/world-of-warships",
+    "startDate": "2026-03-19",
+    "endDate": "2026-03-26"
   }
 ]
