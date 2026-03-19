@@ -35,9 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Cozy Grove | 2026-03-12 → 2026-03-19 | [Store Page](https://store.epicgames.com/en-US/p/cozy-grove) |
-| Isonzo | 2026-03-12 → 2026-03-19 | [Store Page](https://store.epicgames.com/en-US/p/isonzo) |
 | Electrician Simulator | 2026-03-19 → 2026-03-26 | [Store Page](https://store.epicgames.com/en-US/p/electrician-simulator-164e9f) |
+| Hyper Echelon | 2026-03-26 → 2026-04-02 | [Store Page](https://store.epicgames.com/en-US/p/hyper-echelon-2d23ff) |
+| Havendock | 2026-03-26 → 2026-04-02 | [Store Page](https://store.epicgames.com/en-US/p/havendock-64983e) |
 | World of Warships — Epic Anniversary Tachibana Pack | 2026-03-19 → 2026-03-26 | [Store Page](https://store.epicgames.com/en-US/p/world-of-warships) |
 
 <!-- END_GAMES_TABLE -->

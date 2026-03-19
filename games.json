@@ -1,24 +1,24 @@
 [
   {
-    "title": "Cozy Grove",
-    "description": "Welcome to Cozy Grove, a life-sim game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts.",
-    "url": "https://store.epicgames.com/en-US/p/cozy-grove",
-    "startDate": "2026-03-12",
-    "endDate": "2026-03-19"
-  },
-  {
-    "title": "Isonzo",
-    "description": "Ferocious Alpine warfare will test your tactical skills in this authentic WW1 FPS. Battle among the scenic peaks, rugged valleys and idyllic towns of northern Italy. The Great War on the Italian Front is brought to life and elevated to unexpected heights!",
-    "url": "https://store.epicgames.com/en-US/p/isonzo",
-    "startDate": "2026-03-12",
-    "endDate": "2026-03-19"
-  },
-  {
     "title": "Electrician Simulator",
     "description": "Take on the electrician role and learn the profession's basics! Install sockets, repair worn-out equipment, assemble broken appliances, replace light bulbs, and lay wires at your customers' homes. Be sure to check everything twice, with electricity there are no jokes!",
     "url": "https://store.epicgames.com/en-US/p/electrician-simulator-164e9f",
     "startDate": "2026-03-19",
     "endDate": "2026-03-26"
+  },
+  {
+    "title": "Hyper Echelon",
+    "description": "The Cyan Galaxy is in peril! Your trusty little star fighter and rag tag squad of wingmen are the only hope against the evil EXODON! Level up from a pea shooter to an offensive powerhouse as you engage in frantic combat across many wondrous locales.",
+    "url": "https://store.epicgames.com/en-US/p/hyper-echelon-2d23ff",
+    "startDate": "2026-03-26",
+    "endDate": "2026-04-02"
+  },
+  {
+    "title": "Havendock",
+    "description": "Breathe easy and thrive in this cozy colony sim. Build a haven for castaways, manage resources, live your best life on the ocean. Lead your humble settlement into a high-tech society.",
+    "url": "https://store.epicgames.com/en-US/p/havendock-64983e",
+    "startDate": "2026-03-26",
+    "endDate": "2026-04-02"
   },
   {
     "title": "World of Warships \u2014 Epic Anniversary Tachibana Pack",
