@@ -1,12 +1,5 @@
 [
   {
-    "title": "Electrician Simulator",
-    "description": "Take on the electrician role and learn the profession's basics! Install sockets, repair worn-out equipment, assemble broken appliances, replace light bulbs, and lay wires at your customers' homes. Be sure to check everything twice, with electricity there are no jokes!",
-    "url": "https://store.epicgames.com/en-US/p/electrician-simulator-164e9f",
-    "startDate": "2026-03-19",
-    "endDate": "2026-03-26"
-  },
-  {
     "title": "Hyper Echelon",
     "description": "The Cyan Galaxy is in peril! Your trusty little star fighter and rag tag squad of wingmen are the only hope against the evil EXODON! Level up from a pea shooter to an offensive powerhouse as you engage in frantic combat across many wondrous locales.",
     "url": "https://store.epicgames.com/en-US/p/hyper-echelon-2d23ff",
@@ -21,10 +14,10 @@
     "endDate": "2026-04-02"
   },
   {
-    "title": "World of Warships \u2014 Epic Anniversary Tachibana Pack",
-    "description": "Get a Premium Japanese destroyer and some Epic permanent camouflages to celebrate our 5th year at Epic Games Store.",
-    "url": "https://store.epicgames.com/en-US/p/world-of-warships",
-    "startDate": "2026-03-19",
-    "endDate": "2026-03-26"
+    "title": "Clone Drone in the Danger Zone",
+    "description": "Clone Drone in the Danger Zone is a robot voxel slice-em-up where any part of your body can be sliced off. With your mind downloaded into a robot gladiator, you must survive the sinister trials of the arena.",
+    "url": "https://store.epicgames.com/en-US/p/clone-drone-in-the-danger-zone-4daf6e",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-09"
   }
 ]
