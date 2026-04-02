@@ -35,9 +35,9 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Hyper Echelon | 2026-03-26 → 2026-04-02 | [Store Page](https://store.epicgames.com/en-US/p/hyper-echelon-2d23ff) |
-| Havendock | 2026-03-26 → 2026-04-02 | [Store Page](https://store.epicgames.com/en-US/p/havendock-64983e) |
 | Clone Drone in the Danger Zone | 2026-04-02 → 2026-04-09 | [Store Page](https://store.epicgames.com/en-US/p/clone-drone-in-the-danger-zone-4daf6e) |
+| TOMAK: Save the Earth Regeneration | 2026-04-02 → 2026-04-16 | [Store Page](https://store.epicgames.com/en-US/p/tomak-save-the-earth-regeneration-c1207c) |
+| Prop Sumo | 2026-04-09 → 2026-04-16 | [Store Page](https://store.epicgames.com/en-US/p/propsumo-ca8bd7) |
 
 <!-- END_GAMES_TABLE -->
 
