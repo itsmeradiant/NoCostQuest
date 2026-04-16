@@ -35,8 +35,8 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| TOMAK: Save the Earth Regeneration | 2026-04-02 → 2026-04-16 | [Store Page](https://store.epicgames.com/en-US/p/tomak-save-the-earth-regeneration-c1207c) |
-| Prop Sumo | 2026-04-09 → 2026-04-16 | [Store Page](https://store.epicgames.com/en-US/p/propsumo-ca8bd7) |
+| DOOMBLADE | 2026-04-23 → 2026-04-30 | [Store Page](https://store.epicgames.com/en-US/p/doomblade-afdf9a) |
+| The Stone of Madness | 2026-04-16 → 2026-04-23 | [Store Page](https://store.epicgames.com/en-US/p/the-stone-of-madness-7b22f3) |
 
 <!-- END_GAMES_TABLE -->
 
