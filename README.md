@@ -35,8 +35,8 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
+| Firestone Online Idle RPG | 2026-04-30 → 2026-05-07 | [Store Page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
 | DOOMBLADE | 2026-04-23 → 2026-04-30 | [Store Page](https://store.epicgames.com/en-US/p/doomblade-afdf9a) |
-| The Stone of Madness | 2026-04-16 → 2026-04-23 | [Store Page](https://store.epicgames.com/en-US/p/the-stone-of-madness-7b22f3) |
 
 <!-- END_GAMES_TABLE -->
 
