@@ -36,7 +36,9 @@ Last updated: 2025-04-20
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
 | Firestone Online Idle RPG | 2026-04-30 → 2026-05-07 | [Store Page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b) |
-| DOOMBLADE | 2026-04-23 → 2026-04-30 | [Store Page](https://store.epicgames.com/en-US/p/doomblade-afdf9a) |
+| Oddsparks: An Automation Adventure | 2026-04-30 → 2026-05-07 | [Store Page](https://store.epicgames.com/en-US/p/oddsparks-58440c) |
+| Arranger: A Role-Puzzling Adventure | 2026-05-07 → 2026-05-14 | [Store Page](https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7) |
+| Trash Goblin | 2026-05-07 → 2026-05-14 | [Store Page](https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7) |
 
 <!-- END_GAMES_TABLE -->
 
