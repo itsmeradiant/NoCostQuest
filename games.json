@@ -1,19 +1,5 @@
 [
   {
-    "title": "Firestone Online Idle RPG",
-    "description": "Firestone: Online Idle RPG is a multiplayer fantasy game with idle rpg mechanics. Collect heroes\ud83e\uddd9\u200d\u2642\ufe0f, upgrade their gear & skills, and sent them in AFK battles or go on an incremental clicker frenzy to beat monstrous bosses! Chat with guild friends or engage in PVP\u2694\ufe0f.",
-    "url": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
-    "startDate": "2026-04-30",
-    "endDate": "2026-05-07"
-  },
-  {
-    "title": "Oddsparks: An Automation Adventure",
-    "description": "Design automated workshops for your odd and adorable Sparks to carry and craft everything, including more of themselves. Lead your squad of Sparks into combat. Explore a strange fantasy world, in single player or online co-op. Unearth the ancient mystery of the Sparks!",
-    "url": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
-    "startDate": "2026-04-30",
-    "endDate": "2026-05-07"
-  },
-  {
     "title": "Arranger: A Role-Puzzling Adventure",
     "description": "Find your way in a world of breezy, thoughtful puzzles, along a charming journey of self-discovery.",
     "url": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7",
@@ -26,5 +12,19 @@
     "url": "https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7",
     "startDate": "2026-05-07",
     "endDate": "2026-05-14"
+  },
+  {
+    "title": "Mystery Game 2",
+    "description": "Mystery Game 2",
+    "url": "https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-02",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-21"
+  },
+  {
+    "title": "Mystery Game 1",
+    "description": "Mystery Game 1",
+    "url": "https://store.epicgames.com/en-US/p/megasale-mysterygame-2026",
+    "startDate": "2026-05-14",
+    "endDate": "2026-05-21"
   }
 ]
