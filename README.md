@@ -35,10 +35,10 @@ Last updated: 2025-04-20
 <!-- BEGIN_GAMES_TABLE -->
 | 🎮 Game | 🗓️ Duration | 🔗 Link |
 |--------|--------------|---------|
-| Arranger: A Role-Puzzling Adventure | 2026-05-07 → 2026-05-14 | [Store Page](https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7) |
-| Trash Goblin | 2026-05-07 → 2026-05-14 | [Store Page](https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7) |
-| Mystery Game 2 | 2026-05-14 → 2026-05-21 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-02) |
-| Mystery Game 1 | 2026-05-14 → 2026-05-21 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026) |
+| The Telltale Batman Shadows Edition | 2026-05-14 → 2026-05-21 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-02) |
+| Sunderfolk - Standard Edition | 2026-05-14 → 2026-05-21 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026) |
+| Mystery Game Week 21 Game 2 | 2026-05-21 → 2026-05-28 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game2) |
+| Mystery Game Week 21 Game 1 | 2026-05-21 → 2026-05-28 | [Store Page](https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game1) |
 
 <!-- END_GAMES_TABLE -->
 

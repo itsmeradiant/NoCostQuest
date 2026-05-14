@@ -1,30 +1,30 @@
 [
   {
-    "title": "Arranger: A Role-Puzzling Adventure",
-    "description": "Find your way in a world of breezy, thoughtful puzzles, along a charming journey of self-discovery.",
-    "url": "https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7",
-    "startDate": "2026-05-07",
-    "endDate": "2026-05-14"
-  },
-  {
-    "title": "Trash Goblin",
-    "description": "A wholesome, cosy shopkeeping game with no pressures, no stress, and endless good vibes! Uncover and clean trinkets then upcycle them to sell to endless colourful, quirky customers. Spend your savings to upgrade your shop, buy better tools, plus expand and customise your space.",
-    "url": "https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7",
-    "startDate": "2026-05-07",
-    "endDate": "2026-05-14"
-  },
-  {
-    "title": "Mystery Game 2",
-    "description": "Mystery Game 2",
+    "title": "The Telltale Batman Shadows Edition",
+    "description": "The Telltale Batman Shadows Edition",
     "url": "https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-02",
     "startDate": "2026-05-14",
     "endDate": "2026-05-21"
   },
   {
-    "title": "Mystery Game 1",
-    "description": "Mystery Game 1",
+    "title": "Sunderfolk - Standard Edition",
+    "description": "Sunderfolk - Standard Edition",
     "url": "https://store.epicgames.com/en-US/p/megasale-mysterygame-2026",
     "startDate": "2026-05-14",
     "endDate": "2026-05-21"
+  },
+  {
+    "title": "Mystery Game Week 21 Game 2",
+    "description": "Mystery Game Week 21 Game 2",
+    "url": "https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game2",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-28"
+  },
+  {
+    "title": "Mystery Game Week 21 Game 1",
+    "description": "Mystery Game Week 21 Game 1",
+    "url": "https://store.epicgames.com/en-US/p/megasale-mysterygame-2026-week21-game1",
+    "startDate": "2026-05-21",
+    "endDate": "2026-05-28"
   }
 ]
